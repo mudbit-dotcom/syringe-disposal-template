@@ -1,4 +1,4 @@
-import permits from '$lib/Parks_Syringe_Disposal_Kiosks_.csv';
+import syringes from '$lib/data/syringes.json';
 
 // Page settings
 // These values are passed to the layout to control what appears on the page.
@@ -8,5 +8,6 @@ export function load() {
     showHeader: true,
     // Set to false to hide the site footer
     showFooter: true,
+    syringes
   };
 }

@@ -1,0 +1,4721 @@
+[
+  {
+    "kioskid": "87",
+    "system": "X010A-NK-0087",
+    "borough": "Bronx",
+    "parkdistrict": "X-06",
+    "gispropnum": "X010A",
+    "omppropid": "X010A",
+    "propertyname": "Walter Gladwin Park",
+    "subpropertyname": "Walter Gladwin Park",
+    "location": "South of wall on hillside",
+    "model": "Stainless steel",
+    "submodel": "Post mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2024-12-20T05:00:00.000",
+    "status_change_date": "2025-03-25T00:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.89599839839856,
+        40.845819394098825
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "35",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "31"
+  },
+  {
+    "kioskid": "47",
+    "system": "X017-NK-0103",
+    "borough": "Bronx",
+    "parkdistrict": "X-05",
+    "gispropnum": "X017",
+    "omppropid": "X017",
+    "propertyname": "Richman (Echo) Park",
+    "subpropertyname": "Richman (Echo) Park",
+    "location": "On the rocky outcropping near Tremont Ave",
+    "model": "Stainless steel",
+    "submodel": "Post mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2025-09-26T18:06:09.000",
+    "status_change_date": "2025-09-26T18:06:20.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.90181333581498,
+        40.84855253827277
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "6",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "29",
+    ":@computed_region_efsh_h5xi": "10935"
+  },
+  {
+    "kioskid": "47",
+    "system": "X017-NK-0047",
+    "borough": "Bronx",
+    "parkdistrict": "X-05",
+    "gispropnum": "X017",
+    "omppropid": "X017",
+    "propertyname": "Richman (Echo) Park",
+    "subpropertyname": "Richman (Echo) Park",
+    "location": "On the rocky outcropping next to Tremont Ave",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-12-17T05:00:00.000",
+    "remove_date": "2025-09-26T18:04:46.000",
+    "removal_reason": "Damaged",
+    "status_change_date": "2025-09-26T18:05:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.90185160611884,
+        40.84853309318825
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "6",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "29",
+    ":@computed_region_efsh_h5xi": "10935"
+  },
+  {
+    "kioskid": "34",
+    "system": "X106-NK-0097",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X106",
+    "omppropid": "X106",
+    "propertyname": "Evelina Antonetty Playground",
+    "location": "Interior walkway",
+    "model": "Outdoor wall mount",
+    "submodel": "Mailbox/wall",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-08-19T14:43:11.000",
+    "remove_date": "2018-10-30T14:43:20.000",
+    "removal_reason": "Construction",
+    "status_change_date": "2018-10-30T14:43:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92840326864155,
+        40.81725091443416
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "43",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10929"
+  },
+  {
+    "kioskid": "75",
+    "system": "M037-NK-0075",
+    "borough": "Manhattan",
+    "parkdistrict": "M-12A",
+    "gispropnum": "M037",
+    "omppropid": "M037-ZN07",
+    "propertyname": "Highbridge Park",
+    "subpropertyname": "Highbridge Park Zone 7",
+    "location": "E 181 St and Amsterdam Ave",
+    "model": "Stainless Steel",
+    "submodel": "Post Mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2021-08-27T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.93003430358391,
+        40.84728959452695
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "47",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "39",
+    ":@computed_region_sbqj_enih": "22",
+    ":@computed_region_efsh_h5xi": "13091"
+  },
+  {
+    "kioskid": "80",
+    "system": "M058-NK-0080",
+    "borough": "Manhattan",
+    "parkdistrict": "M-11",
+    "gispropnum": "M058",
+    "omppropid": "M058-ZN01",
+    "propertyname": "Marcus Garvey Park",
+    "subpropertyname": "Marcus Garvey Park Zone 1",
+    "location": "South side of amphitheater",
+    "model": "Stainless Steel",
+    "submodel": "Outdoor Wall Mount",
+    "containersize": "2 gallon",
+    "installationdate": "2024-08-01T15:06:25.000",
+    "status_change_date": "2024-09-19T15:06:52.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.94475651596565,
+        40.80475783342907
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "7",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "36",
+    ":@computed_region_sbqj_enih": "16",
+    ":@computed_region_efsh_h5xi": "13093"
+  },
+  {
+    "kioskid": "82",
+    "system": "M088-NK-0082",
+    "borough": "Manhattan",
+    "parkdistrict": "M-03",
+    "gispropnum": "M088",
+    "omppropid": "M088",
+    "propertyname": "Tompkins Square Park",
+    "subpropertyname": "Tompkins Square Park",
+    "location": "E 7 St between Aves A and B",
+    "model": "Large Black Box",
+    "status": "Removed",
+    "remove_date": "2025-03-03T17:59:31.000",
+    "removal_reason": "Replaced with stainless steel model",
+    "status_change_date": "2025-03-03T17:59:47.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.98244506365027,
+        40.72588466679194
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "70",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "50",
+    ":@computed_region_sbqj_enih": "5",
+    ":@computed_region_efsh_h5xi": "11729"
+  },
+  {
+    "kioskid": "46",
+    "system": "X001A-NK-0046",
+    "borough": "Bronx",
+    "parkdistrict": "X-05",
+    "gispropnum": "X001A",
+    "omppropid": "X001A",
+    "propertyname": "Aqueduct Walk",
+    "subpropertyname": "Aqueduct Walk",
+    "location": "At E 184 St in gulch west of walkway",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2019-05-01T04:00:00.000",
+    "remove_date": "2019-07-01T04:00:00.000",
+    "removal_reason": "Low usage",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.90472963448288,
+        40.862109721822314
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "24",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "29",
+    ":@computed_region_sbqj_enih": "34",
+    ":@computed_region_efsh_h5xi": "11606"
+  },
+  {
+    "kioskid": "83",
+    "system": "M105-NK-0083",
+    "borough": "Manhattan",
+    "parkdistrict": "M-03",
+    "gispropnum": "M105",
+    "omppropid": "M105",
+    "propertyname": "Sara D. Roosevelt Park",
+    "subpropertyname": "Sara D. Roosevelt Park",
+    "location": "Stanton St bet Chrystie and Forsyth Sts",
+    "model": "Large Black Box",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "remove_date": "2025-03-03T17:49:10.000",
+    "status_change_date": "2025-03-03T17:49:22.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.99134390701697,
+        40.72252380681094
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "70",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "32",
+    ":@computed_region_sbqj_enih": "2",
+    ":@computed_region_efsh_h5xi": "11723"
+  },
+  {
+    "kioskid": "28",
+    "system": "X155-NK-0028",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X155",
+    "omppropid": "X155",
+    "propertyname": "Patterson Playground",
+    "subpropertyname": "Patterson Playground",
+    "location": "Morris Ave and E 145 St",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2018-08-19T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92262720156488,
+        40.81558486090136
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10929"
+  },
+  {
+    "kioskid": "53",
+    "system": "M037-NK-0053",
+    "borough": "Manhattan",
+    "parkdistrict": "M-12A",
+    "gispropnum": "M037",
+    "omppropid": "M037-ZN07",
+    "propertyname": "Highbridge Park",
+    "subpropertyname": "Highbridge Park Zone 7",
+    "location": "E 181st St and Amsterdam Ave, near arches at bottom of steps",
+    "model": "Outdoor post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2019-08-26T04:00:00.000",
+    "remove_date": "2022-03-01T18:57:32.000",
+    "removal_reason": "Broken",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.9292448696017,
+        40.84717671535206
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "47",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "39",
+    ":@computed_region_sbqj_enih": "22",
+    ":@computed_region_efsh_h5xi": "13091"
+  },
+  {
+    "kioskid": "84",
+    "system": "X105-NK-0090",
+    "borough": "Manhattan",
+    "parkdistrict": "X-03",
+    "gispropnum": "X105",
+    "omppropid": "X105",
+    "propertyname": "Sara D. Roosevelt Park",
+    "subpropertyname": "Sara D.  Roosevelt Park",
+    "location": "Chrystie and Delancey near entrance",
+    "model": "Stainless steel",
+    "submodel": "Post mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2025-04-22T16:57:06.000",
+    "status_change_date": "2025-04-22T16:57:26.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.99283264680847,
+        40.71963172984492
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "70",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "32",
+    ":@computed_region_sbqj_enih": "2",
+    ":@computed_region_efsh_h5xi": "11723"
+  },
+  {
+    "kioskid": "66",
+    "system": "M058-NK-0066",
+    "borough": "Manhattan",
+    "parkdistrict": "M-11",
+    "gispropnum": "M058",
+    "omppropid": "M058-ZN01",
+    "propertyname": "Marcus Garvey Park",
+    "subpropertyname": "Marcus Garvey Park Zone 1",
+    "location": "North side of amphitheater on railing next to structure door",
+    "model": "Stainless Steel",
+    "submodel": "Wall mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2024-01-01T20:16:10.000",
+    "status_change_date": "2024-07-11T19:08:40.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.94467004585371,
+        40.80504250891808
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "7",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "36",
+    ":@computed_region_sbqj_enih": "16",
+    ":@computed_region_efsh_h5xi": "13093"
+  },
+  {
+    "kioskid": "78",
+    "system": "M037-NK-0078",
+    "borough": "Manhattan",
+    "parkdistrict": "M-12A",
+    "gispropnum": "M037",
+    "omppropid": "M037-ZN07",
+    "propertyname": "Highbridge Park",
+    "subpropertyname": "Highbridge Park Zone 7",
+    "location": "E 181 St and Amsterdam Ave",
+    "model": "Stainless steel",
+    "submodel": "Post mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2021-08-27T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92943797262525,
+        40.84696947814358
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "47",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "39",
+    ":@computed_region_sbqj_enih": "22",
+    ":@computed_region_efsh_h5xi": "13091"
+  },
+  {
+    "kioskid": "23",
+    "system": "X010-NK-0023",
+    "borough": "Bronx",
+    "parkdistrict": "X-03",
+    "gispropnum": "X010",
+    "omppropid": "X010-12",
+    "propertyname": "Crotona Park",
+    "subpropertyname": "Crotona Park-Bathgate Playground",
+    "location": "Crotona Bathgate Plgd, Fulton Ave. & E 173 St.",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Active",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.89769492872426,
+        40.84066917439288
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "34",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "43",
+    ":@computed_region_sbqj_enih": "25"
+  },
+  {
+    "kioskid": "26",
+    "system": "X042-NK-0026",
+    "borough": "Bronx",
+    "parkdistrict": "X-06",
+    "gispropnum": "X042",
+    "omppropid": "X042",
+    "propertyname": "Rosehill Park",
+    "subpropertyname": "Rosehill Park",
+    "location": "Webster Ave and Fordham Rd",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Active",
+    "installationdate": "2018-09-29T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.89076907820362,
+        40.86170221020886
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "24",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "31",
+    ":@computed_region_efsh_h5xi": "10936"
+  },
+  {
+    "kioskid": "21",
+    "system": "X010A-NK-0021",
+    "borough": "Bronx",
+    "parkdistrict": "X-06",
+    "gispropnum": "X010A",
+    "omppropid": "X010A-02",
+    "propertyname": "Walter Gladwin Park",
+    "subpropertyname": "Walter Gladwin Park-175th Street Playground",
+    "location": "E Tremont Ave and Arthur Ave",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "1.5 gallon",
+    "status": "Removed",
+    "installationdate": "2018-06-04T04:00:00.000",
+    "status_change_date": "2024-07-10T21:03:36.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.89467083931423,
+        40.844554884187346
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "35",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "31"
+  },
+  {
+    "kioskid": "42",
+    "system": "X010A-NK-0102",
+    "borough": "Bronx",
+    "parkdistrict": "X-06",
+    "gispropnum": "X010A",
+    "omppropid": "X010A",
+    "propertyname": "Walter Gladwin Park",
+    "subpropertyname": "Walter Gladwin Park",
+    "location": "Pathway adjacent to ball field",
+    "model": "Stainless steel",
+    "submodel": "Post mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2025-09-26T18:03:46.000",
+    "status_change_date": "2025-09-26T18:03:55.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.89640781207974,
+        40.84510713844238
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "35",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "31"
+  },
+  {
+    "kioskid": "49",
+    "system": "X045-NK-0049",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X045",
+    "omppropid": "X045",
+    "propertyname": "St. Mary's Park",
+    "subpropertyname": "St. Mary's Park",
+    "location": "Parking lot of M&O building at E 149th St and St Ann's Ave",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-12-11T05:00:00.000",
+    "remove_date": "2021-01-01T20:31:03.000",
+    "removal_reason": "Vandalism",
+    "status_change_date": "2019-04-12T00:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.91271947699323,
+        40.81399712980507
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10933"
+  },
+  {
+    "kioskid": "42",
+    "system": "X010A-NK-0042",
+    "borough": "Bronx",
+    "parkdistrict": "X-06",
+    "gispropnum": "X010A",
+    "omppropid": "X010A",
+    "propertyname": "Walter Gladwin Park",
+    "subpropertyname": "Walter Gladwin Park",
+    "location": "Pathway adjacent to ball field on west side of field",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-09-01T04:00:00.000",
+    "removal_reason": "Vandalism",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.8964085078787,
+        40.84511720748027
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "35",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "31"
+  },
+  {
+    "kioskid": "14",
+    "system": "X045-NK-0014",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X045",
+    "omppropid": "X045-01",
+    "propertyname": "St. Mary's Park East",
+    "subpropertyname": "St Mary's Park-St Mary's Playground East",
+    "location": "Jackson Ave and E 144 St",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Removed",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "remove_date": "2022-01-01T20:33:37.000",
+    "removal_reason": "Construction",
+    "status_change_date": "2024-07-11T18:52:44.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.91051776583642,
+        40.809894010879006
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10933"
+  },
+  {
+    "kioskid": "2",
+    "system": "X010-NK-0002",
+    "borough": "Bronx",
+    "parkdistrict": "X-03",
+    "gispropnum": "X010",
+    "omppropid": "X010-ZN08",
+    "propertyname": "Crotona Park",
+    "subpropertyname": "Crotona Park-Crotona Zone 8",
+    "location": "Crotona Zone 8, SW corner of park",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2019-05-01T04:00:00.000",
+    "remove_date": "2023-01-01T19:32:18.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.89977157796434,
+        40.83555971560733
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "34",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "43",
+    ":@computed_region_sbqj_enih": "25"
+  },
+  {
+    "kioskid": "86",
+    "system": "X017-NK-0086",
+    "borough": "Bronx",
+    "parkdistrict": "X-05",
+    "gispropnum": "X017",
+    "omppropid": "X017",
+    "propertyname": "Richman (Echo) Park",
+    "subpropertyname": "Richman (Echo) Park",
+    "location": "Near Tremont Ave. entrance",
+    "model": "Stainless",
+    "submodel": "Wall mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2024-11-15T20:46:10.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.90200469332571,
+        40.84886000484137
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "6",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "29",
+    ":@computed_region_efsh_h5xi": "10935"
+  },
+  {
+    "kioskid": "12",
+    "system": "X217-NK-0012",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X217",
+    "omppropid": "X217",
+    "propertyname": "Willis Playground",
+    "subpropertyname": "Willis Playground",
+    "location": "E 139 St, E 140 St, Willis and Alexander Aves",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Removed",
+    "installationdate": "2021-03-01T05:00:00.000",
+    "remove_date": "2024-07-01T19:28:39.000",
+    "removal_reason": "Restrooms near playground",
+    "status_change_date": "2024-07-11T18:53:45.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92265388965716,
+        40.81133677252811
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10932"
+  },
+  {
+    "kioskid": "88",
+    "system": "M105-NK-0088",
+    "borough": "Manhattan",
+    "parkdistrict": "M-03",
+    "gispropnum": "M105",
+    "omppropid": "M105",
+    "propertyname": "Sara D. Roosevelt Park",
+    "subpropertyname": "Sara D. Roosevelt Park",
+    "location": "Forsythe and Broome on east wall of park house",
+    "model": "Stainless steel",
+    "submodel": "Wall mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2025-04-22T16:42:19.000",
+    "status_change_date": "2025-04-22T16:43:45.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.99289970135712,
+        40.718712863681574
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "70",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "32",
+    ":@computed_region_sbqj_enih": "2",
+    ":@computed_region_efsh_h5xi": "11723"
+  },
+  {
+    "kioskid": "8",
+    "system": "X168-NK-0008",
+    "borough": "Bronx",
+    "parkdistrict": "X-04",
+    "gispropnum": "X168",
+    "omppropid": "X168",
+    "propertyname": "Nelson Playground",
+    "subpropertyname": "Nelson Playground",
+    "location": "W 166 St and Nelson Ave",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Removed",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "remove_date": "2023-01-01T19:34:37.000",
+    "removal_reason": "Non use",
+    "status_change_date": "2023-01-01T19:34:52.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92658756848269,
+        40.83500171710657
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "50",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "27",
+    ":@computed_region_efsh_h5xi": "10930"
+  },
+  {
+    "kioskid": "81",
+    "system": "X044-NK-0081",
+    "borough": "Bronx",
+    "parkdistrict": "X-07",
+    "gispropnum": "X044",
+    "omppropid": "X044",
+    "propertyname": "St. James Park",
+    "subpropertyname": "St. James Park",
+    "location": "Creston Ave and E 192 St",
+    "model": "Stainless Steel",
+    "submodel": "Wall Mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2024-10-10T21:22:34.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.89696980870822,
+        40.86463288527386
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "24",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "29",
+    ":@computed_region_sbqj_enih": "34",
+    ":@computed_region_efsh_h5xi": "11606"
+  },
+  {
+    "kioskid": "59",
+    "system": "M028-NK-0098",
+    "borough": "Manhattan",
+    "parkdistrict": "M-12",
+    "gispropnum": "M028",
+    "omppropid": "M028",
+    "propertyname": "Fort Washington Park",
+    "subpropertyname": "Fort Washington Park",
+    "location": "W 177 St entrance",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2016-05-12T17:46:21.000",
+    "status_change_date": "2016-05-12T17:46:37.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.94223202862905,
+        40.84826693890901
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "47",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "39",
+    ":@computed_region_sbqj_enih": "21",
+    ":@computed_region_efsh_h5xi": "13091"
+  },
+  {
+    "kioskid": "24",
+    "system": "X010-NK-0024",
+    "borough": "Bronx",
+    "parkdistrict": "X-03",
+    "gispropnum": "X010",
+    "omppropid": "X010",
+    "propertyname": "Crotona Park",
+    "subpropertyname": "Crotona Park",
+    "location": "Crotona Bathgate Plgd, Fulton Ave. & E 173 St.",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Active",
+    "installationdate": "2018-08-19T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.89752035900044,
+        40.8406128538278
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "34",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "43",
+    ":@computed_region_sbqj_enih": "25"
+  },
+  {
+    "kioskid": "30",
+    "system": "X045-NK-0030",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X045",
+    "omppropid": "X045-ZN02",
+    "propertyname": "St. Mary's Park",
+    "subpropertyname": "St Mary's Park Zone 2",
+    "location": "E 148 St and St. Ann's Ave",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-08-19T04:00:00.000",
+    "remove_date": "2022-01-01T20:30:43.000",
+    "removal_reason": "Construction",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.91280247520771,
+        40.81367032187943
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10933"
+  },
+  {
+    "kioskid": "57",
+    "system": "M037-NK-0057",
+    "borough": "Manhattan",
+    "parkdistrict": "M-12A",
+    "gispropnum": "M037",
+    "omppropid": "M037-ZN07",
+    "propertyname": "Highbridge Park",
+    "subpropertyname": "Highbridge Park Zone 7",
+    "location": "E 181st St and Amsterdam Ave, west of first underpass",
+    "model": "Outdoor post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2019-08-26T04:00:00.000",
+    "remove_date": "2022-03-01T18:58:57.000",
+    "removal_reason": "Removed",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.93038490890997,
+        40.847104198052584
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "47",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "39",
+    ":@computed_region_sbqj_enih": "22",
+    ":@computed_region_efsh_h5xi": "13091"
+  },
+  {
+    "kioskid": "13",
+    "system": "X045-NK-0013",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X045",
+    "omppropid": "X045-01",
+    "propertyname": "St. Mary's Park East",
+    "subpropertyname": "St Mary's Park-St Mary's Playground East",
+    "location": "Jackson Ave and E 144 St",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Removed",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "remove_date": "2022-01-01T20:33:22.000",
+    "removal_reason": "Construction",
+    "status_change_date": "2024-07-11T18:52:37.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.91045557636097,
+        40.80988872169399
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10933"
+  },
+  {
+    "kioskid": "16",
+    "system": "X200-NK-0016",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X200",
+    "omppropid": "X200",
+    "propertyname": "Clark Playground",
+    "subpropertyname": "Clark Playground",
+    "location": "E 144 St and 3rd Ave",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Removed",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "remove_date": "2024-07-01T19:25:43.000",
+    "removal_reason": "Restrooms used by playground, school",
+    "status_change_date": "2024-07-11T18:55:05.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.9212315729037,
+        40.81395372116583
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10933"
+  },
+  {
+    "kioskid": "27",
+    "system": "X155-NK-0100",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X155",
+    "omppropid": "X155",
+    "propertyname": "Patterson Playground",
+    "subpropertyname": "Patterson Playground",
+    "location": "E 146 St and College Ave",
+    "model": "Stainless steel",
+    "submodel": "Post mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "remove_date": "2025-09-26T18:00:25.000",
+    "status_change_date": "2025-09-26T18:00:36.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92164802485281,
+        40.815734533169746
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10929"
+  },
+  {
+    "kioskid": "9",
+    "system": "X047-NK-0009",
+    "borough": "Bronx",
+    "parkdistrict": "X-04",
+    "gispropnum": "X047",
+    "omppropid": "X047-ZN01",
+    "propertyname": "Franz Sigel Park",
+    "subpropertyname": "Franz Sigel Park Zone 1",
+    "location": "Grand Concourse and E 158 St",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Active",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "removal_reason": "Construction",
+    "status_change_date": "2024-07-11T18:55:57.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92602667053147,
+        40.82139181956032
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "50",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "27",
+    ":@computed_region_efsh_h5xi": "10929"
+  },
+  {
+    "kioskid": "39",
+    "system": "X045-NK-0039",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X045",
+    "omppropid": "X045-ZN03",
+    "propertyname": "St. Mary's Park",
+    "subpropertyname": "St. Mary's Park",
+    "location": "St. Mary's Ave at Beekman Ave",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-09-01T14:38:52.000",
+    "remove_date": "2018-12-11T15:39:02.000",
+    "removal_reason": "Vandalism",
+    "status_change_date": "2018-12-11T15:39:43.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.91302857132128,
+        40.8102019936267
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10933"
+  },
+  {
+    "kioskid": "35",
+    "system": "X047-NK-0035",
+    "borough": "Bronx",
+    "parkdistrict": "X-04",
+    "gispropnum": "X047",
+    "omppropid": "X047-ZN01",
+    "propertyname": "Franz Sigel Park",
+    "subpropertyname": "Franz Sigel Park Zone 1",
+    "location": "Walton Ave and E 153 St",
+    "model": "Outdoor Wall Mount",
+    "submodel": "Mailbox/wall",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-08-19T04:00:00.000",
+    "remove_date": "2023-01-01T20:34:08.000",
+    "removal_reason": "Construction",
+    "status_change_date": "2024-07-12T00:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92652857027669,
+        40.822846719250144
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "50",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "27",
+    ":@computed_region_efsh_h5xi": "10929"
+  },
+  {
+    "kioskid": "76",
+    "system": "M037-NK-0076",
+    "borough": "Manhattan",
+    "parkdistrict": "M-12A",
+    "gispropnum": "M037",
+    "omppropid": "M037-ZN07",
+    "propertyname": "Highbridge Park",
+    "subpropertyname": "Highbridge Park Zone 7",
+    "location": "Path from 181 St to skate park",
+    "model": "Stainless Steel",
+    "submodel": "Post Mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2024-01-02T16:48:13.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92992454421966,
+        40.84691087174109
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "47",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "39",
+    ":@computed_region_sbqj_enih": "22",
+    ":@computed_region_efsh_h5xi": "13091"
+  },
+  {
+    "kioskid": "45",
+    "system": "X010A-NK-0092",
+    "borough": "Bronx",
+    "parkdistrict": "X-06",
+    "gispropnum": "X010A",
+    "omppropid": "X010A",
+    "propertyname": "Walter Gladwin Park",
+    "subpropertyname": "Walter Gladwin Park",
+    "location": "SW corner of half wall near top of 3rd Ave steps",
+    "model": "Outdoor post mount",
+    "submodel": "Mailbox",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-09-01T18:45:31.000",
+    "remove_date": "2019-03-31T18:45:39.000",
+    "removal_reason": "Broken",
+    "status_change_date": "2019-03-31T18:45:58.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.8960522725063,
+        40.8457281227665
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "35",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "31"
+  },
+  {
+    "kioskid": "85",
+    "system": "M105-NK-0085",
+    "borough": "Manhattan",
+    "parkdistrict": "M-03",
+    "gispropnum": "M105",
+    "omppropid": "M105",
+    "propertyname": "Sara D. Roosevelt Park",
+    "subpropertyname": "Sara D. Roosevelt Park",
+    "location": "Broome St and Chrystie St",
+    "model": "Large Black Box",
+    "status": "Removed",
+    "remove_date": "2025-03-03T17:45:06.000",
+    "removal_reason": "Replaced with stainless steel model in new loc",
+    "status_change_date": "2025-03-03T17:45:23.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.99327532598667,
+        40.71874313436113
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "70",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "32",
+    ":@computed_region_sbqj_enih": "2",
+    ":@computed_region_efsh_h5xi": "11723"
+  },
+  {
+    "kioskid": "33",
+    "system": "X001A-NK-0033",
+    "borough": "Bronx",
+    "parkdistrict": "X-05",
+    "gispropnum": "X001A",
+    "omppropid": "X001A",
+    "propertyname": "Aqueduct Walk",
+    "subpropertyname": "Aqueduct Walk",
+    "location": "E Burnside Ave and University Ave",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-08-19T04:00:00.000",
+    "remove_date": "2019-07-01T04:00:00.000",
+    "removal_reason": "Low usage",
+    "status_change_date": "2019-07-01T00:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.91019257323114,
+        40.855546712516244
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "6",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "29",
+    ":@computed_region_sbqj_enih": "29",
+    ":@computed_region_efsh_h5xi": "10931"
+  },
+  {
+    "kioskid": "3",
+    "system": "X008-NK-0003",
+    "borough": "Bronx",
+    "parkdistrict": "X-04",
+    "gispropnum": "X008",
+    "omppropid": "X008-01",
+    "propertyname": "Claremont Park",
+    "subpropertyname": "Claremont Park-Claremont Park",
+    "location": "Adj. handball court, near Clay Ave and Andrew Robinson Place",
+    "model": "Indoor Wall Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "1.5 gallon",
+    "status": "Active",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.9080123049033,
+        40.83764310614098
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "50",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "42",
+    ":@computed_region_sbqj_enih": "27"
+  },
+  {
+    "kioskid": "25",
+    "system": "X042-NK-0025",
+    "borough": "Bronx",
+    "parkdistrict": "X-06",
+    "gispropnum": "X042",
+    "omppropid": "X042",
+    "propertyname": "Rosehill Park",
+    "subpropertyname": "Rosehill Park",
+    "location": "Webster Ave and Fordham Rd",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Active",
+    "installationdate": "2018-09-29T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.89079587910176,
+        40.861765110528005
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "24",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "31",
+    ":@computed_region_efsh_h5xi": "10936"
+  },
+  {
+    "kioskid": "32",
+    "system": "X200-NK-0032",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X200",
+    "omppropid": "X200",
+    "propertyname": "Clark Playground",
+    "subpropertyname": "Clark Playground",
+    "location": "E 145 St and 3rd Ave",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-08-19T04:00:00.000",
+    "remove_date": "2024-07-01T19:27:30.000",
+    "removal_reason": "Restrooms used by playground, school",
+    "status_change_date": "2024-07-11T18:54:53.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92116667270768,
+        40.81400361119652
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10933"
+  },
+  {
+    "kioskid": "58",
+    "system": "M037-NK-0058",
+    "borough": "Manhattan",
+    "parkdistrict": "M-12A",
+    "gispropnum": "M037",
+    "omppropid": "M037-ZN07",
+    "propertyname": "Highbridge Park",
+    "subpropertyname": "Highbridge Park Zone 7",
+    "location": "E 179st St and Amsterdam Ave, south side of skate park",
+    "model": "Outdoor post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2019-08-26T04:00:00.000",
+    "remove_date": "2022-03-01T18:58:07.000",
+    "removal_reason": "Broken",
+    "status_change_date": "2024-07-11T19:23:27.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92992016755943,
+        40.84646491368734
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "47",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "39",
+    ":@computed_region_sbqj_enih": "22",
+    ":@computed_region_efsh_h5xi": "13091"
+  },
+  {
+    "kioskid": "52",
+    "system": "X001A-NK-0052",
+    "borough": "Bronx",
+    "parkdistrict": "X-05",
+    "gispropnum": "X001A",
+    "omppropid": "X001-ZN01",
+    "propertyname": "Aqueduct Walk",
+    "subpropertyname": "Aqueduct Walk Zone 1",
+    "location": "Down steps in gulch on south side of Fordham Rd",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2018-12-17T05:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.90406719546834,
+        40.86259899011745
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "24",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "29",
+    ":@computed_region_sbqj_enih": "34",
+    ":@computed_region_efsh_h5xi": "11606"
+  },
+  {
+    "kioskid": "15",
+    "system": "X200-NK-0015",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X200",
+    "omppropid": "X200",
+    "propertyname": "Clark Playground",
+    "subpropertyname": "Clark Playground",
+    "location": "E 144 St and 3rd Ave",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Removed",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "remove_date": "2024-07-01T19:27:02.000",
+    "removal_reason": "Restrooms used by playground, school",
+    "status_change_date": "2024-07-11T18:55:23.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92115340275647,
+        40.81394655110299
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10933"
+  },
+  {
+    "kioskid": "11",
+    "system": "X217-NK-0011",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X217",
+    "omppropid": "X217",
+    "propertyname": "Willis Playground",
+    "subpropertyname": "Willis Playground",
+    "location": "E 139 St, E 140 St, Willis and Alexander Aves",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Removed",
+    "installationdate": "2021-03-01T05:00:00.000",
+    "remove_date": "2024-07-01T19:29:13.000",
+    "removal_reason": "Restrooms near playground",
+    "status_change_date": "2024-07-11T18:53:12.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.9227249546996,
+        40.81137295626106
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10932"
+  },
+  {
+    "kioskid": "74",
+    "system": "M037-NK-0074",
+    "borough": "Manhattan",
+    "parkdistrict": "M-12A",
+    "gispropnum": "M037",
+    "omppropid": "M037-ZN07",
+    "propertyname": "Highbridge Park",
+    "subpropertyname": "Highbridge Park Zone 7",
+    "location": "E 181 St and Amsterdam Ave",
+    "model": "Stainless steel",
+    "submodel": "Post mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2021-08-27T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.93031213620104,
+        40.84679336265409
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "47",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "39",
+    ":@computed_region_sbqj_enih": "22",
+    ":@computed_region_efsh_h5xi": "13091"
+  },
+  {
+    "kioskid": "35",
+    "system": "X047-NK-0099",
+    "borough": "Bronx",
+    "parkdistrict": "X-04",
+    "gispropnum": "X047",
+    "omppropid": "X047-ZN01",
+    "propertyname": "Franz Sigel Park",
+    "subpropertyname": "Franz Sigel Park",
+    "location": "West wall of old park house near Walton Ave.",
+    "model": "Stainless steel",
+    "submodel": "Post mount",
+    "containersize": "2 gal",
+    "status": "Active",
+    "installationdate": "2025-09-25T18:18:29.000",
+    "status_change_date": "2025-09-25T18:19:02.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92649566312808,
+        40.82286425345088
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "50",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "27",
+    ":@computed_region_efsh_h5xi": "10929"
+  },
+  {
+    "kioskid": "22",
+    "system": "X010A-NK-0022",
+    "borough": "Bronx",
+    "parkdistrict": "X-06",
+    "gispropnum": "X010A",
+    "omppropid": "X010A-02",
+    "propertyname": "Walter Gladwin Park",
+    "subpropertyname": "Walter Gladwin Park-175th Street Playground",
+    "location": "E Tremont Ave and Arthur Ave",
+    "model": "Outdoor Wall Mount",
+    "submodel": "Mailbox/wall",
+    "containersize": "1.5 gallon",
+    "status": "Removed",
+    "installationdate": "2018-06-04T04:00:00.000",
+    "remove_date": "2019-06-15T04:00:00.000",
+    "removal_reason": "Construction",
+    "status_change_date": "2024-07-10T21:02:04.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.89465433913621,
+        40.8445084135767
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "35",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "31"
+  },
+  {
+    "kioskid": "20",
+    "system": "X017-NK-0020",
+    "borough": "Bronx",
+    "parkdistrict": "X-05",
+    "gispropnum": "X017",
+    "omppropid": "X017-02",
+    "propertyname": "Richman (Echo) Park",
+    "subpropertyname": "Richman (Echo) Park-Richman (Echo) Park Upper",
+    "location": "E Tremont Ave and E Burnside Ave",
+    "model": "Indoor Wall Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "1.5 gallon",
+    "status": "Removed",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "remove_date": "2021-01-01T20:43:03.000",
+    "removal_reason": "Restroom in playground",
+    "status_change_date": "2024-07-11T19:01:33.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.9020835754425,
+        40.84955071344829
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "6",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "29",
+    ":@computed_region_efsh_h5xi": "10935"
+  },
+  {
+    "kioskid": "35",
+    "system": "X047-NK-0101",
+    "borough": "Bronx",
+    "parkdistrict": "X-04",
+    "gispropnum": "X047",
+    "omppropid": "X047-ZN01",
+    "propertyname": "Franz Sigel Park",
+    "subpropertyname": "Franz Sigel Park",
+    "location": "Walton Ave and E 153 St",
+    "model": "Stainless steel",
+    "submodel": "Wall mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2025-09-26T18:02:23.000",
+    "status_change_date": "2025-09-26T18:02:42.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92648485406663,
+        40.82273493531268
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "50",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "27",
+    ":@computed_region_efsh_h5xi": "10929"
+  },
+  {
+    "kioskid": "5",
+    "system": "X008-NK-0005",
+    "borough": "Bronx",
+    "parkdistrict": "X-04",
+    "gispropnum": "X008",
+    "omppropid": "X008-ZN01",
+    "propertyname": "Claremont Park",
+    "subpropertyname": "Claremont Park-Claremont Zone 1",
+    "location": "Adj. gazebo, near Clay Ave and E 172 St",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Active",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.90690057532215,
+        40.84148371529455
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "50",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "42",
+    ":@computed_region_sbqj_enih": "27"
+  },
+  {
+    "kioskid": "50",
+    "system": "X045-NK-0050",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X045",
+    "omppropid": "X045-ZN03",
+    "propertyname": "St. Mary's Park",
+    "subpropertyname": "St Mary's Park Zone 3",
+    "location": "In the center of the park north of the old tennis courts",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-12-11T05:00:00.000",
+    "remove_date": "2023-01-01T20:31:52.000",
+    "removal_reason": "Vandalism",
+    "status_change_date": "2024-07-11T18:52:26.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.91192787582443,
+        40.81261451961746
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10933"
+  },
+  {
+    "kioskid": "43",
+    "system": "X010A-NK-0043",
+    "borough": "Bronx",
+    "parkdistrict": "X-06",
+    "gispropnum": "X010A",
+    "omppropid": "X010A",
+    "propertyname": "Walter Gladwin Park",
+    "subpropertyname": "Walter Gladwin Park",
+    "location": "Near top of hill on north slope",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-09-01T04:00:00.000",
+    "remove_date": "2022-01-01T20:36:32.000",
+    "removal_reason": "Damaged",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.89599128900102,
+        40.84554590346641
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "35",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "31"
+  },
+  {
+    "kioskid": "73",
+    "system": "M037-NK-0073",
+    "borough": "Manhattan",
+    "parkdistrict": "M-12A",
+    "gispropnum": "M037",
+    "omppropid": "M037-ZN07",
+    "propertyname": "Highbridge Park",
+    "subpropertyname": "Highbridge Park Zone 7",
+    "location": "E 181 St and Amsterdam Ave",
+    "model": "Stainless steel",
+    "submodel": "Post mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2021-08-27T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.9303625273554,
+        40.84741695436631
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "47",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "39",
+    ":@computed_region_sbqj_enih": "22",
+    ":@computed_region_efsh_h5xi": "13091"
+  },
+  {
+    "kioskid": "83",
+    "system": "M105-NK-0089",
+    "borough": "Manhattan",
+    "parkdistrict": "M-03",
+    "gispropnum": "M105",
+    "omppropid": "M105",
+    "propertyname": "Sara D. Roosevelt Park",
+    "subpropertyname": "Sara D. Roosevelt Park",
+    "location": "Stanton and Chrystie west side of park house",
+    "model": "Stainless steel",
+    "submodel": "Post mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2025-04-22T16:54:54.000",
+    "status_change_date": "2025-04-22T16:55:14.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.99134670290033,
+        40.722522414833534
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "70",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "32",
+    ":@computed_region_sbqj_enih": "2",
+    ":@computed_region_efsh_h5xi": "11723"
+  },
+  {
+    "kioskid": "29",
+    "system": "X017-NK-0029",
+    "borough": "Bronx",
+    "parkdistrict": "X-05",
+    "gispropnum": "X017",
+    "omppropid": "X017",
+    "propertyname": "Richman (Echo) Park",
+    "subpropertyname": "Richman (Echo) Park",
+    "location": "E Tremont Ave and E Burnside Ave",
+    "model": "Outdoor Wall Mount",
+    "submodel": "Mailbox/wall",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-08-19T04:00:00.000",
+    "remove_date": "2019-06-15T04:00:00.000",
+    "removal_reason": "Construction",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.90137406660322,
+        40.849305544321076
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "6",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "29",
+    ":@computed_region_efsh_h5xi": "10935"
+  },
+  {
+    "kioskid": "18",
+    "system": "X255-NK-0018",
+    "borough": "Bronx",
+    "parkdistrict": "X-02",
+    "gispropnum": "X255",
+    "omppropid": "X255",
+    "propertyname": "Bill Rainey Park",
+    "subpropertyname": "Bill Rainey Park",
+    "location": "Dawson St and Longwood Ave",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Active",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.89822609995355,
+        40.818771588983
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "8",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "43",
+    ":@computed_region_sbqj_enih": "24",
+    ":@computed_region_efsh_h5xi": "10937"
+  },
+  {
+    "kioskid": "72",
+    "system": "M037-NK-0093",
+    "borough": "Manhattan",
+    "parkdistrict": "M-12A",
+    "gispropnum": "M037",
+    "omppropid": "M037-ZN07",
+    "propertyname": "Highbridge Park",
+    "subpropertyname": "Highbridge Park Zone 7",
+    "location": "E 181st St and Amsterdam Ave",
+    "model": "Stainless steel",
+    "submodel": "Post mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2019-08-26T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.93048076797544,
+        40.84757071451609
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "47",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "39",
+    ":@computed_region_sbqj_enih": "22",
+    ":@computed_region_efsh_h5xi": "13091"
+  },
+  {
+    "kioskid": "1",
+    "system": "X010-NK-0001",
+    "borough": "Bronx",
+    "parkdistrict": "X-03",
+    "gispropnum": "X010",
+    "omppropid": "X010-ZN08",
+    "propertyname": "Crotona Park",
+    "subpropertyname": "Crotona Park-Crotona Zone 8",
+    "location": "Crotona Zone 8, SW corner of park",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Removed",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "remove_date": "2023-01-01T19:32:00.000",
+    "removal_reason": "Non use",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.89965081828257,
+        40.835630375960704
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "34",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "43",
+    ":@computed_region_sbqj_enih": "25"
+  },
+  {
+    "kioskid": "70",
+    "system": "B025-NK-0096",
+    "borough": "Brooklyn",
+    "parkdistrict": "B-01",
+    "gispropnum": "B025",
+    "omppropid": "B025",
+    "propertyname": "Cooper Park",
+    "subpropertyname": "Cooper Park",
+    "location": "East of Maspeth Ave. entrance on fence",
+    "model": "Stainless Steel",
+    "submodel": "Wall mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2024-01-02T17:31:58.000",
+    "status_change_date": "2024-01-02T15:46:09.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.93726517456803,
+        40.71641328154574
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "36",
+    ":@computed_region_yeji_bk3q": "2",
+    ":@computed_region_92fq_4b7q": "30",
+    ":@computed_region_sbqj_enih": "56",
+    ":@computed_region_efsh_h5xi": "17613"
+  },
+  {
+    "kioskid": "40",
+    "system": "X010-NK-0040",
+    "borough": "Bronx",
+    "parkdistrict": "X-03",
+    "gispropnum": "X010",
+    "omppropid": "X010-ZN10",
+    "propertyname": "Crotona Park",
+    "subpropertyname": "Crotona Park-Crotona Zone 10",
+    "location": "Crotona Park North and Arthur Ave",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2018-09-01T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.89579527037608,
+        40.84278222451273
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "34",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "43",
+    ":@computed_region_sbqj_enih": "25"
+  },
+  {
+    "kioskid": "6",
+    "system": "X008-NK-0006",
+    "borough": "Bronx",
+    "parkdistrict": "X-04",
+    "gispropnum": "X008",
+    "omppropid": "X008-ZN01",
+    "propertyname": "Claremont Park",
+    "subpropertyname": "Claremont Park-Claremont Zone 1",
+    "location": "Adj. gazebo, near Clay Ave and E 172 St",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Active",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.90686957522053,
+        40.84144071511641
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "50",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "42",
+    ":@computed_region_sbqj_enih": "27"
+  },
+  {
+    "kioskid": "4",
+    "system": "X008-NK-0004",
+    "borough": "Bronx",
+    "parkdistrict": "X-04",
+    "gispropnum": "X008",
+    "omppropid": "X008-01",
+    "propertyname": "Claremont Park",
+    "subpropertyname": "Claremont Park-Claremont Park",
+    "location": "Adj. handball court, near Clay Ave and Andrew Robinson Place",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Active",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.90801457543186,
+        40.837693715719375
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "50",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "42",
+    ":@computed_region_sbqj_enih": "27"
+  },
+  {
+    "kioskid": "7",
+    "system": "X168-NK-0007",
+    "borough": "Bronx",
+    "parkdistrict": "X-04",
+    "gispropnum": "X168",
+    "omppropid": "X168",
+    "propertyname": "Nelson Playground",
+    "subpropertyname": "Nelson Playground",
+    "location": "W 166 St and Nelson Ave",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Removed",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "remove_date": "2023-01-01T19:34:11.000",
+    "removal_reason": "Non use",
+    "status_change_date": "2023-01-01T19:35:06.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92660815075999,
+        40.8350447567244
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "50",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "27",
+    ":@computed_region_efsh_h5xi": "10930"
+  },
+  {
+    "kioskid": "68",
+    "system": "M058-NK-0068",
+    "borough": "Manhattan",
+    "parkdistrict": "M-11",
+    "gispropnum": "M058",
+    "omppropid": "M058-ZN03",
+    "propertyname": "Marcus Garvey Park",
+    "subpropertyname": "Marcus Garvey Park Zone 3",
+    "location": "South side of Acropolis on retaining wall",
+    "model": "Stainless Steel",
+    "submodel": "Wall mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2024-01-01T20:04:44.000",
+    "status_change_date": "2024-07-11T19:04:57.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.94390021129855,
+        40.80388840620673
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "7",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "36",
+    ":@computed_region_sbqj_enih": "16",
+    ":@computed_region_efsh_h5xi": "13093"
+  },
+  {
+    "kioskid": "84",
+    "system": "M105-NK-0084",
+    "borough": "Manhattan",
+    "parkdistrict": "M-03",
+    "gispropnum": "M105",
+    "omppropid": "M105",
+    "propertyname": "Sara D. Roosevelt Park",
+    "subpropertyname": "Sara D. Roosevelt Park",
+    "location": "Delancey St and Chrystie St.",
+    "model": "Large Black Box",
+    "status": "Removed",
+    "remove_date": "2025-03-03T17:47:44.000",
+    "status_change_date": "2025-03-03T17:48:17.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.99283016223418,
+        40.719612241758306
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "70",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "32",
+    ":@computed_region_sbqj_enih": "2",
+    ":@computed_region_efsh_h5xi": "11723"
+  },
+  {
+    "kioskid": "67",
+    "system": "M058-NK-0095",
+    "borough": "Manhattan",
+    "parkdistrict": "M-11",
+    "gispropnum": "M058",
+    "omppropid": "M058-ZN03",
+    "propertyname": "Marcus Garvey Park",
+    "subpropertyname": "Marcus Garvey Park Zone 3",
+    "location": "North side of Acropolis on staircase landing",
+    "model": "Stainless Steel",
+    "submodel": "Wall mount",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2024-01-01T20:14:16.000",
+    "remove_date": "2025-09-19T14:39:29.000",
+    "removal_reason": "Construction",
+    "status_change_date": "2025-09-19T19:07:56.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.94324924465127,
+        40.80443798795073
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "7",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "36",
+    ":@computed_region_sbqj_enih": "16",
+    ":@computed_region_efsh_h5xi": "13093"
+  },
+  {
+    "kioskid": "41",
+    "system": "X017-NK-0041",
+    "borough": "Bronx",
+    "parkdistrict": "X-05",
+    "gispropnum": "X017",
+    "omppropid": "X017",
+    "propertyname": "Richman (Echo) Park",
+    "subpropertyname": "Richman (Echo) Park",
+    "location": "Small plaza at top of pathway above playground",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-09-01T04:00:00.000",
+    "remove_date": "2024-11-15T20:43:57.000",
+    "removal_reason": "Low usage",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.90177884692697,
+        40.849355984068694
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "6",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "29",
+    ":@computed_region_efsh_h5xi": "10935"
+  },
+  {
+    "kioskid": "38",
+    "system": "X045-NK-0038",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X045",
+    "omppropid": "X045-ZN03",
+    "propertyname": "St. Mary's Park",
+    "subpropertyname": "St Mary's Park Zone 3",
+    "location": "Trinity Ave and E 147 St north of walkway",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-09-01T04:00:00.000",
+    "remove_date": "2022-01-01T20:32:35.000",
+    "removal_reason": "Construction",
+    "status_change_date": "2024-07-11T18:52:12.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.91104309584195,
+        40.81230816095542
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10933"
+  },
+  {
+    "kioskid": "36",
+    "system": "X043-NK-0036",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X043",
+    "omppropid": "X043",
+    "propertyname": "Ryan's Triangle",
+    "subpropertyname": "Ryan's Triangle",
+    "location": "Crotona Park North and Arthur Ave",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-09-01T04:00:00.000",
+    "remove_date": "2019-10-17T04:00:00.000",
+    "removal_reason": "Low usage",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92437757271537,
+        40.815392720580604
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10929"
+  },
+  {
+    "kioskid": "10",
+    "system": "X047-NK-0010",
+    "borough": "Bronx",
+    "parkdistrict": "X-04",
+    "gispropnum": "X047",
+    "omppropid": "X047-ZN01",
+    "propertyname": "Franz Sigel Park",
+    "subpropertyname": "Franz Sigel Park Zone 1",
+    "location": "Grand Concourse and E 158 St",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Active",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "status_change_date": "2024-07-12T00:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.9259987204743,
+        40.82137270930238
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "50",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "27",
+    ":@computed_region_efsh_h5xi": "10929"
+  },
+  {
+    "kioskid": "37",
+    "system": "X045-NK-0037",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X045",
+    "omppropid": "X045",
+    "propertyname": "St. Mary's Park",
+    "subpropertyname": "St. Mary's Park",
+    "location": "Trinity Ave and E 147 St south of walkway",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-09-01T04:00:00.000",
+    "remove_date": "2022-01-01T20:32:17.000",
+    "removal_reason": "Construction",
+    "status_change_date": "2024-07-11T18:52:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.91140720526654,
+        40.81157195109912
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10933"
+  },
+  {
+    "kioskid": "82",
+    "system": "M088-NK-0091",
+    "borough": "Manhattan",
+    "parkdistrict": "M-03",
+    "gispropnum": "M088",
+    "omppropid": "M088",
+    "propertyname": "Tompkins Square Park",
+    "subpropertyname": "Tompkins Square Park",
+    "location": "E 7 St btw A and B Aves north of entrance",
+    "model": "Stainless steel",
+    "submodel": "Post mount",
+    "containersize": "2 gallon",
+    "installationdate": "2025-04-22T17:02:54.000",
+    "status_change_date": "2025-04-22T17:03:17.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.98241426223939,
+        40.725870389924225
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "70",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "50",
+    ":@computed_region_sbqj_enih": "5",
+    ":@computed_region_efsh_h5xi": "11729"
+  },
+  {
+    "kioskid": "27",
+    "system": "X155-NK-0027",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X155",
+    "omppropid": "X155",
+    "propertyname": "Patterson Playground",
+    "subpropertyname": "Patterson Playground",
+    "location": "College Ave and E 146 St",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-06-04T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92162694246522,
+        40.81575156075154
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10929"
+  },
+  {
+    "kioskid": "44",
+    "system": "X010A-NK-0044",
+    "borough": "Bronx",
+    "parkdistrict": "X-06",
+    "gispropnum": "X010A",
+    "omppropid": "X010A",
+    "propertyname": "Walter Gladwin Park",
+    "subpropertyname": "Walter Gladwin Park",
+    "location": "Near top of hill NW of ballfield",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2018-09-01T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.89624029425957,
+        40.8454257029857
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "35",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "31"
+  },
+  {
+    "kioskid": "31",
+    "system": "X045-NK-0031",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X045",
+    "omppropid": "X045",
+    "propertyname": "St. Mary's Park",
+    "subpropertyname": "St. Mary's Park",
+    "location": "E 145 St and St. Ann's Ave, behind recreation center",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-08-19T04:00:00.000",
+    "remove_date": "2022-01-01T20:30:14.000",
+    "removal_reason": "Construction",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.91372857504494,
+        40.811544720886694
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10933"
+  },
+  {
+    "kioskid": "71",
+    "system": "M037-NK-0094",
+    "borough": "Manhattan",
+    "parkdistrict": "M-12A",
+    "gispropnum": "M037",
+    "omppropid": "M037-ZN07",
+    "propertyname": "Highbridge Park",
+    "subpropertyname": "Highbridge Park Zone 7",
+    "location": "E 181st St and Amsterdam Ave",
+    "model": "Stainless steel",
+    "submodel": "Post mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2019-08-26T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.93040176780676,
+        40.84766871428563
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "47",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "39",
+    ":@computed_region_sbqj_enih": "22",
+    ":@computed_region_efsh_h5xi": "13091"
+  },
+  {
+    "kioskid": "19",
+    "system": "X017-NK-0019",
+    "borough": "Bronx",
+    "parkdistrict": "X-05",
+    "gispropnum": "X017",
+    "omppropid": "X017-02",
+    "propertyname": "Richman (Echo) Park",
+    "subpropertyname": "Richman (Echo) Park-Richman (Echo) Park Upper",
+    "location": "E Tremont Ave and E Burnside Ave",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Removed",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "remove_date": "2021-01-01T20:42:41.000",
+    "removal_reason": "Restroom in playground",
+    "status_change_date": "2024-07-11T19:01:19.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.902031385139,
+        40.849573943261554
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "6",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "29",
+    ":@computed_region_efsh_h5xi": "10935"
+  },
+  {
+    "kioskid": "17",
+    "system": "X255-NK-0017",
+    "borough": "Bronx",
+    "parkdistrict": "X-02",
+    "gispropnum": "X255",
+    "omppropid": "X255",
+    "propertyname": "Bill Rainey Park",
+    "subpropertyname": "Bill Rainey Park",
+    "location": "Dawson St and Longwood Ave",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Active",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.89836958005895,
+        40.81869271853284
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "8",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "43",
+    ":@computed_region_sbqj_enih": "24",
+    ":@computed_region_efsh_h5xi": "10937"
+  },
+  {
+    "kioskid": "32",
+    "system": "X200-NK-0032",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X200",
+    "omppropid": "X200",
+    "propertyname": "Clark Playground",
+    "subpropertyname": "Clark Playground",
+    "location": "E 145 St and 3rd Ave",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-08-19T04:00:00.000",
+    "remove_date": "2024-07-01T19:27:30.000",
+    "removal_reason": "Restrooms used by playground, school",
+    "status_change_date": "2024-07-11T18:54:53.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92116667270768,
+        40.81400361119652
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10933"
+  },
+  {
+    "kioskid": "27",
+    "system": "X155-NK-0100",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X155",
+    "omppropid": "X155",
+    "propertyname": "Patterson Playground",
+    "subpropertyname": "Patterson Playground",
+    "location": "E 146 St and College Ave",
+    "model": "Stainless steel",
+    "submodel": "Post mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "remove_date": "2025-09-26T18:00:25.000",
+    "status_change_date": "2025-09-26T18:00:36.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92164802485281,
+        40.815734533169746
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10929"
+  },
+  {
+    "kioskid": "35",
+    "system": "X047-NK-0099",
+    "borough": "Bronx",
+    "parkdistrict": "X-04",
+    "gispropnum": "X047",
+    "omppropid": "X047-ZN01",
+    "propertyname": "Franz Sigel Park",
+    "subpropertyname": "Franz Sigel Park",
+    "location": "West wall of old park house near Walton Ave.",
+    "model": "Stainless steel",
+    "submodel": "Post mount",
+    "containersize": "2 gal",
+    "status": "Active",
+    "installationdate": "2025-09-25T18:18:29.000",
+    "status_change_date": "2025-09-25T18:19:02.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92649566312808,
+        40.82286425345088
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "50",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "27",
+    ":@computed_region_efsh_h5xi": "10929"
+  },
+  {
+    "kioskid": "58",
+    "system": "M037-NK-0058",
+    "borough": "Manhattan",
+    "parkdistrict": "M-12A",
+    "gispropnum": "M037",
+    "omppropid": "M037-ZN07",
+    "propertyname": "Highbridge Park",
+    "subpropertyname": "Highbridge Park Zone 7",
+    "location": "E 179st St and Amsterdam Ave, south side of skate park",
+    "model": "Outdoor post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2019-08-26T04:00:00.000",
+    "remove_date": "2022-03-01T18:58:07.000",
+    "removal_reason": "Broken",
+    "status_change_date": "2024-07-11T19:23:27.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92992016755943,
+        40.84646491368734
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "47",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "39",
+    ":@computed_region_sbqj_enih": "22",
+    ":@computed_region_efsh_h5xi": "13091"
+  },
+  {
+    "kioskid": "38",
+    "system": "X045-NK-0038",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X045",
+    "omppropid": "X045-ZN03",
+    "propertyname": "St. Mary's Park",
+    "subpropertyname": "St Mary's Park Zone 3",
+    "location": "Trinity Ave and E 147 St north of walkway",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-09-01T04:00:00.000",
+    "remove_date": "2022-01-01T20:32:35.000",
+    "removal_reason": "Construction",
+    "status_change_date": "2024-07-11T18:52:12.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.91104309584195,
+        40.81230816095542
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10933"
+  },
+  {
+    "kioskid": "33",
+    "system": "X001A-NK-0033",
+    "borough": "Bronx",
+    "parkdistrict": "X-05",
+    "gispropnum": "X001A",
+    "omppropid": "X001A",
+    "propertyname": "Aqueduct Walk",
+    "subpropertyname": "Aqueduct Walk",
+    "location": "E Burnside Ave and University Ave",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-08-19T04:00:00.000",
+    "remove_date": "2019-07-01T04:00:00.000",
+    "removal_reason": "Low usage",
+    "status_change_date": "2019-07-01T00:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.91019257323114,
+        40.855546712516244
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "6",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "29",
+    ":@computed_region_sbqj_enih": "29",
+    ":@computed_region_efsh_h5xi": "10931"
+  },
+  {
+    "kioskid": "7",
+    "system": "X168-NK-0007",
+    "borough": "Bronx",
+    "parkdistrict": "X-04",
+    "gispropnum": "X168",
+    "omppropid": "X168",
+    "propertyname": "Nelson Playground",
+    "subpropertyname": "Nelson Playground",
+    "location": "W 166 St and Nelson Ave",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Removed",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "remove_date": "2023-01-01T19:34:11.000",
+    "removal_reason": "Non use",
+    "status_change_date": "2023-01-01T19:35:06.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92660815075999,
+        40.8350447567244
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "50",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "27",
+    ":@computed_region_efsh_h5xi": "10930"
+  },
+  {
+    "kioskid": "22",
+    "system": "X010A-NK-0022",
+    "borough": "Bronx",
+    "parkdistrict": "X-06",
+    "gispropnum": "X010A",
+    "omppropid": "X010A-02",
+    "propertyname": "Walter Gladwin Park",
+    "subpropertyname": "Walter Gladwin Park-175th Street Playground",
+    "location": "E Tremont Ave and Arthur Ave",
+    "model": "Outdoor Wall Mount",
+    "submodel": "Mailbox/wall",
+    "containersize": "1.5 gallon",
+    "status": "Removed",
+    "installationdate": "2018-06-04T04:00:00.000",
+    "remove_date": "2019-06-15T04:00:00.000",
+    "removal_reason": "Construction",
+    "status_change_date": "2024-07-10T21:02:04.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.89465433913621,
+        40.8445084135767
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "35",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "31"
+  },
+  {
+    "kioskid": "25",
+    "system": "X042-NK-0025",
+    "borough": "Bronx",
+    "parkdistrict": "X-06",
+    "gispropnum": "X042",
+    "omppropid": "X042",
+    "propertyname": "Rosehill Park",
+    "subpropertyname": "Rosehill Park",
+    "location": "Webster Ave and Fordham Rd",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Active",
+    "installationdate": "2018-09-29T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.89079587910176,
+        40.861765110528005
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "24",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "31",
+    ":@computed_region_efsh_h5xi": "10936"
+  },
+  {
+    "kioskid": "52",
+    "system": "X001A-NK-0052",
+    "borough": "Bronx",
+    "parkdistrict": "X-05",
+    "gispropnum": "X001A",
+    "omppropid": "X001-ZN01",
+    "propertyname": "Aqueduct Walk",
+    "subpropertyname": "Aqueduct Walk Zone 1",
+    "location": "Down steps in gulch on south side of Fordham Rd",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2018-12-17T05:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.90406719546834,
+        40.86259899011745
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "24",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "29",
+    ":@computed_region_sbqj_enih": "34",
+    ":@computed_region_efsh_h5xi": "11606"
+  },
+  {
+    "kioskid": "72",
+    "system": "M037-NK-0093",
+    "borough": "Manhattan",
+    "parkdistrict": "M-12A",
+    "gispropnum": "M037",
+    "omppropid": "M037-ZN07",
+    "propertyname": "Highbridge Park",
+    "subpropertyname": "Highbridge Park Zone 7",
+    "location": "E 181st St and Amsterdam Ave",
+    "model": "Stainless steel",
+    "submodel": "Post mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2019-08-26T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.93048076797544,
+        40.84757071451609
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "47",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "39",
+    ":@computed_region_sbqj_enih": "22",
+    ":@computed_region_efsh_h5xi": "13091"
+  },
+  {
+    "kioskid": "85",
+    "system": "M105-NK-0085",
+    "borough": "Manhattan",
+    "parkdistrict": "M-03",
+    "gispropnum": "M105",
+    "omppropid": "M105",
+    "propertyname": "Sara D. Roosevelt Park",
+    "subpropertyname": "Sara D. Roosevelt Park",
+    "location": "Broome St and Chrystie St",
+    "model": "Large Black Box",
+    "status": "Removed",
+    "remove_date": "2025-03-03T17:45:06.000",
+    "removal_reason": "Replaced with stainless steel model in new loc",
+    "status_change_date": "2025-03-03T17:45:23.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.99327532598667,
+        40.71874313436113
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "70",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "32",
+    ":@computed_region_sbqj_enih": "2",
+    ":@computed_region_efsh_h5xi": "11723"
+  },
+  {
+    "kioskid": "43",
+    "system": "X010A-NK-0043",
+    "borough": "Bronx",
+    "parkdistrict": "X-06",
+    "gispropnum": "X010A",
+    "omppropid": "X010A",
+    "propertyname": "Walter Gladwin Park",
+    "subpropertyname": "Walter Gladwin Park",
+    "location": "Near top of hill on north slope",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-09-01T04:00:00.000",
+    "remove_date": "2022-01-01T20:36:32.000",
+    "removal_reason": "Damaged",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.89599128900102,
+        40.84554590346641
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "35",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "31"
+  },
+  {
+    "kioskid": "3",
+    "system": "X008-NK-0003",
+    "borough": "Bronx",
+    "parkdistrict": "X-04",
+    "gispropnum": "X008",
+    "omppropid": "X008-01",
+    "propertyname": "Claremont Park",
+    "subpropertyname": "Claremont Park-Claremont Park",
+    "location": "Adj. handball court, near Clay Ave and Andrew Robinson Place",
+    "model": "Indoor Wall Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "1.5 gallon",
+    "status": "Active",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.9080123049033,
+        40.83764310614098
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "50",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "42",
+    ":@computed_region_sbqj_enih": "27"
+  },
+  {
+    "kioskid": "5",
+    "system": "X008-NK-0005",
+    "borough": "Bronx",
+    "parkdistrict": "X-04",
+    "gispropnum": "X008",
+    "omppropid": "X008-ZN01",
+    "propertyname": "Claremont Park",
+    "subpropertyname": "Claremont Park-Claremont Zone 1",
+    "location": "Adj. gazebo, near Clay Ave and E 172 St",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Active",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.90690057532215,
+        40.84148371529455
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "50",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "42",
+    ":@computed_region_sbqj_enih": "27"
+  },
+  {
+    "kioskid": "1",
+    "system": "X010-NK-0001",
+    "borough": "Bronx",
+    "parkdistrict": "X-03",
+    "gispropnum": "X010",
+    "omppropid": "X010-ZN08",
+    "propertyname": "Crotona Park",
+    "subpropertyname": "Crotona Park-Crotona Zone 8",
+    "location": "Crotona Zone 8, SW corner of park",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Removed",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "remove_date": "2023-01-01T19:32:00.000",
+    "removal_reason": "Non use",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.89965081828257,
+        40.835630375960704
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "34",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "43",
+    ":@computed_region_sbqj_enih": "25"
+  },
+  {
+    "kioskid": "73",
+    "system": "M037-NK-0073",
+    "borough": "Manhattan",
+    "parkdistrict": "M-12A",
+    "gispropnum": "M037",
+    "omppropid": "M037-ZN07",
+    "propertyname": "Highbridge Park",
+    "subpropertyname": "Highbridge Park Zone 7",
+    "location": "E 181 St and Amsterdam Ave",
+    "model": "Stainless steel",
+    "submodel": "Post mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2021-08-27T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.9303625273554,
+        40.84741695436631
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "47",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "39",
+    ":@computed_region_sbqj_enih": "22",
+    ":@computed_region_efsh_h5xi": "13091"
+  },
+  {
+    "kioskid": "35",
+    "system": "X047-NK-0101",
+    "borough": "Bronx",
+    "parkdistrict": "X-04",
+    "gispropnum": "X047",
+    "omppropid": "X047-ZN01",
+    "propertyname": "Franz Sigel Park",
+    "subpropertyname": "Franz Sigel Park",
+    "location": "Walton Ave and E 153 St",
+    "model": "Stainless steel",
+    "submodel": "Wall mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2025-09-26T18:02:23.000",
+    "status_change_date": "2025-09-26T18:02:42.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92648485406663,
+        40.82273493531268
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "50",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "27",
+    ":@computed_region_efsh_h5xi": "10929"
+  },
+  {
+    "kioskid": "74",
+    "system": "M037-NK-0074",
+    "borough": "Manhattan",
+    "parkdistrict": "M-12A",
+    "gispropnum": "M037",
+    "omppropid": "M037-ZN07",
+    "propertyname": "Highbridge Park",
+    "subpropertyname": "Highbridge Park Zone 7",
+    "location": "E 181 St and Amsterdam Ave",
+    "model": "Stainless steel",
+    "submodel": "Post mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2021-08-27T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.93031213620104,
+        40.84679336265409
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "47",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "39",
+    ":@computed_region_sbqj_enih": "22",
+    ":@computed_region_efsh_h5xi": "13091"
+  },
+  {
+    "kioskid": "67",
+    "system": "M058-NK-0095",
+    "borough": "Manhattan",
+    "parkdistrict": "M-11",
+    "gispropnum": "M058",
+    "omppropid": "M058-ZN03",
+    "propertyname": "Marcus Garvey Park",
+    "subpropertyname": "Marcus Garvey Park Zone 3",
+    "location": "North side of Acropolis on staircase landing",
+    "model": "Stainless Steel",
+    "submodel": "Wall mount",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2024-01-01T20:14:16.000",
+    "remove_date": "2025-09-19T14:39:29.000",
+    "removal_reason": "Construction",
+    "status_change_date": "2025-09-19T19:07:56.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.94324924465127,
+        40.80443798795073
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "7",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "36",
+    ":@computed_region_sbqj_enih": "16",
+    ":@computed_region_efsh_h5xi": "13093"
+  },
+  {
+    "kioskid": "17",
+    "system": "X255-NK-0017",
+    "borough": "Bronx",
+    "parkdistrict": "X-02",
+    "gispropnum": "X255",
+    "omppropid": "X255",
+    "propertyname": "Bill Rainey Park",
+    "subpropertyname": "Bill Rainey Park",
+    "location": "Dawson St and Longwood Ave",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Active",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.89836958005895,
+        40.81869271853284
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "8",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "43",
+    ":@computed_region_sbqj_enih": "24",
+    ":@computed_region_efsh_h5xi": "10937"
+  },
+  {
+    "kioskid": "10",
+    "system": "X047-NK-0010",
+    "borough": "Bronx",
+    "parkdistrict": "X-04",
+    "gispropnum": "X047",
+    "omppropid": "X047-ZN01",
+    "propertyname": "Franz Sigel Park",
+    "subpropertyname": "Franz Sigel Park Zone 1",
+    "location": "Grand Concourse and E 158 St",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Active",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "status_change_date": "2024-07-12T00:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.9259987204743,
+        40.82137270930238
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "50",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "27",
+    ":@computed_region_efsh_h5xi": "10929"
+  },
+  {
+    "kioskid": "4",
+    "system": "X008-NK-0004",
+    "borough": "Bronx",
+    "parkdistrict": "X-04",
+    "gispropnum": "X008",
+    "omppropid": "X008-01",
+    "propertyname": "Claremont Park",
+    "subpropertyname": "Claremont Park-Claremont Park",
+    "location": "Adj. handball court, near Clay Ave and Andrew Robinson Place",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Active",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.90801457543186,
+        40.837693715719375
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "50",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "42",
+    ":@computed_region_sbqj_enih": "27"
+  },
+  {
+    "kioskid": "40",
+    "system": "X010-NK-0040",
+    "borough": "Bronx",
+    "parkdistrict": "X-03",
+    "gispropnum": "X010",
+    "omppropid": "X010-ZN10",
+    "propertyname": "Crotona Park",
+    "subpropertyname": "Crotona Park-Crotona Zone 10",
+    "location": "Crotona Park North and Arthur Ave",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2018-09-01T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.89579527037608,
+        40.84278222451273
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "34",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "43",
+    ":@computed_region_sbqj_enih": "25"
+  },
+  {
+    "kioskid": "84",
+    "system": "M105-NK-0084",
+    "borough": "Manhattan",
+    "parkdistrict": "M-03",
+    "gispropnum": "M105",
+    "omppropid": "M105",
+    "propertyname": "Sara D. Roosevelt Park",
+    "subpropertyname": "Sara D. Roosevelt Park",
+    "location": "Delancey St and Chrystie St.",
+    "model": "Large Black Box",
+    "status": "Removed",
+    "remove_date": "2025-03-03T17:47:44.000",
+    "status_change_date": "2025-03-03T17:48:17.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.99283016223418,
+        40.719612241758306
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "70",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "32",
+    ":@computed_region_sbqj_enih": "2",
+    ":@computed_region_efsh_h5xi": "11723"
+  },
+  {
+    "kioskid": "50",
+    "system": "X045-NK-0050",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X045",
+    "omppropid": "X045-ZN03",
+    "propertyname": "St. Mary's Park",
+    "subpropertyname": "St Mary's Park Zone 3",
+    "location": "In the center of the park north of the old tennis courts",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-12-11T05:00:00.000",
+    "remove_date": "2023-01-01T20:31:52.000",
+    "removal_reason": "Vandalism",
+    "status_change_date": "2024-07-11T18:52:26.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.91192787582443,
+        40.81261451961746
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10933"
+  },
+  {
+    "kioskid": "18",
+    "system": "X255-NK-0018",
+    "borough": "Bronx",
+    "parkdistrict": "X-02",
+    "gispropnum": "X255",
+    "omppropid": "X255",
+    "propertyname": "Bill Rainey Park",
+    "subpropertyname": "Bill Rainey Park",
+    "location": "Dawson St and Longwood Ave",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Active",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.89822609995355,
+        40.818771588983
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "8",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "43",
+    ":@computed_region_sbqj_enih": "24",
+    ":@computed_region_efsh_h5xi": "10937"
+  },
+  {
+    "kioskid": "70",
+    "system": "B025-NK-0096",
+    "borough": "Brooklyn",
+    "parkdistrict": "B-01",
+    "gispropnum": "B025",
+    "omppropid": "B025",
+    "propertyname": "Cooper Park",
+    "subpropertyname": "Cooper Park",
+    "location": "East of Maspeth Ave. entrance on fence",
+    "model": "Stainless Steel",
+    "submodel": "Wall mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2024-01-02T17:31:58.000",
+    "status_change_date": "2024-01-02T15:46:09.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.93726517456803,
+        40.71641328154574
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "36",
+    ":@computed_region_yeji_bk3q": "2",
+    ":@computed_region_92fq_4b7q": "30",
+    ":@computed_region_sbqj_enih": "56",
+    ":@computed_region_efsh_h5xi": "17613"
+  },
+  {
+    "kioskid": "68",
+    "system": "M058-NK-0068",
+    "borough": "Manhattan",
+    "parkdistrict": "M-11",
+    "gispropnum": "M058",
+    "omppropid": "M058-ZN03",
+    "propertyname": "Marcus Garvey Park",
+    "subpropertyname": "Marcus Garvey Park Zone 3",
+    "location": "South side of Acropolis on retaining wall",
+    "model": "Stainless Steel",
+    "submodel": "Wall mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2024-01-01T20:04:44.000",
+    "status_change_date": "2024-07-11T19:04:57.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.94390021129855,
+        40.80388840620673
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "7",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "36",
+    ":@computed_region_sbqj_enih": "16",
+    ":@computed_region_efsh_h5xi": "13093"
+  },
+  {
+    "kioskid": "44",
+    "system": "X010A-NK-0044",
+    "borough": "Bronx",
+    "parkdistrict": "X-06",
+    "gispropnum": "X010A",
+    "omppropid": "X010A",
+    "propertyname": "Walter Gladwin Park",
+    "subpropertyname": "Walter Gladwin Park",
+    "location": "Near top of hill NW of ballfield",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2018-09-01T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.89624029425957,
+        40.8454257029857
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "35",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "31"
+  },
+  {
+    "kioskid": "71",
+    "system": "M037-NK-0094",
+    "borough": "Manhattan",
+    "parkdistrict": "M-12A",
+    "gispropnum": "M037",
+    "omppropid": "M037-ZN07",
+    "propertyname": "Highbridge Park",
+    "subpropertyname": "Highbridge Park Zone 7",
+    "location": "E 181st St and Amsterdam Ave",
+    "model": "Stainless steel",
+    "submodel": "Post mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2019-08-26T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.93040176780676,
+        40.84766871428563
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "47",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "39",
+    ":@computed_region_sbqj_enih": "22",
+    ":@computed_region_efsh_h5xi": "13091"
+  },
+  {
+    "kioskid": "6",
+    "system": "X008-NK-0006",
+    "borough": "Bronx",
+    "parkdistrict": "X-04",
+    "gispropnum": "X008",
+    "omppropid": "X008-ZN01",
+    "propertyname": "Claremont Park",
+    "subpropertyname": "Claremont Park-Claremont Zone 1",
+    "location": "Adj. gazebo, near Clay Ave and E 172 St",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Active",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.90686957522053,
+        40.84144071511641
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "50",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "42",
+    ":@computed_region_sbqj_enih": "27"
+  },
+  {
+    "kioskid": "41",
+    "system": "X017-NK-0041",
+    "borough": "Bronx",
+    "parkdistrict": "X-05",
+    "gispropnum": "X017",
+    "omppropid": "X017",
+    "propertyname": "Richman (Echo) Park",
+    "subpropertyname": "Richman (Echo) Park",
+    "location": "Small plaza at top of pathway above playground",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-09-01T04:00:00.000",
+    "remove_date": "2024-11-15T20:43:57.000",
+    "removal_reason": "Low usage",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.90177884692697,
+        40.849355984068694
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "6",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "29",
+    ":@computed_region_efsh_h5xi": "10935"
+  },
+  {
+    "kioskid": "27",
+    "system": "X155-NK-0027",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X155",
+    "omppropid": "X155",
+    "propertyname": "Patterson Playground",
+    "subpropertyname": "Patterson Playground",
+    "location": "College Ave and E 146 St",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-06-04T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92162694246522,
+        40.81575156075154
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10929"
+  },
+  {
+    "kioskid": "39",
+    "system": "X045-NK-0039",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X045",
+    "omppropid": "X045-ZN03",
+    "propertyname": "St. Mary's Park",
+    "subpropertyname": "St. Mary's Park",
+    "location": "St. Mary's Ave at Beekman Ave",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-09-01T14:38:52.000",
+    "remove_date": "2018-12-11T15:39:02.000",
+    "removal_reason": "Vandalism",
+    "status_change_date": "2018-12-11T15:39:43.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.91302857132128,
+        40.8102019936267
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10933"
+  },
+  {
+    "kioskid": "36",
+    "system": "X043-NK-0036",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X043",
+    "omppropid": "X043",
+    "propertyname": "Ryan's Triangle",
+    "subpropertyname": "Ryan's Triangle",
+    "location": "Crotona Park North and Arthur Ave",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-09-01T04:00:00.000",
+    "remove_date": "2019-10-17T04:00:00.000",
+    "removal_reason": "Low usage",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92437757271537,
+        40.815392720580604
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10929"
+  },
+  {
+    "kioskid": "31",
+    "system": "X045-NK-0031",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X045",
+    "omppropid": "X045",
+    "propertyname": "St. Mary's Park",
+    "subpropertyname": "St. Mary's Park",
+    "location": "E 145 St and St. Ann's Ave, behind recreation center",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-08-19T04:00:00.000",
+    "remove_date": "2022-01-01T20:30:14.000",
+    "removal_reason": "Construction",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.91372857504494,
+        40.811544720886694
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10933"
+  },
+  {
+    "kioskid": "20",
+    "system": "X017-NK-0020",
+    "borough": "Bronx",
+    "parkdistrict": "X-05",
+    "gispropnum": "X017",
+    "omppropid": "X017-02",
+    "propertyname": "Richman (Echo) Park",
+    "subpropertyname": "Richman (Echo) Park-Richman (Echo) Park Upper",
+    "location": "E Tremont Ave and E Burnside Ave",
+    "model": "Indoor Wall Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "1.5 gallon",
+    "status": "Removed",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "remove_date": "2021-01-01T20:43:03.000",
+    "removal_reason": "Restroom in playground",
+    "status_change_date": "2024-07-11T19:01:33.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.9020835754425,
+        40.84955071344829
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "6",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "29",
+    ":@computed_region_efsh_h5xi": "10935"
+  },
+  {
+    "kioskid": "82",
+    "system": "M088-NK-0091",
+    "borough": "Manhattan",
+    "parkdistrict": "M-03",
+    "gispropnum": "M088",
+    "omppropid": "M088",
+    "propertyname": "Tompkins Square Park",
+    "subpropertyname": "Tompkins Square Park",
+    "location": "E 7 St btw A and B Aves north of entrance",
+    "model": "Stainless steel",
+    "submodel": "Post mount",
+    "containersize": "2 gallon",
+    "installationdate": "2025-04-22T17:02:54.000",
+    "status_change_date": "2025-04-22T17:03:17.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.98241426223939,
+        40.725870389924225
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "70",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "50",
+    ":@computed_region_sbqj_enih": "5",
+    ":@computed_region_efsh_h5xi": "11729"
+  },
+  {
+    "kioskid": "82",
+    "system": "M088-NK-0082",
+    "borough": "Manhattan",
+    "parkdistrict": "M-03",
+    "gispropnum": "M088",
+    "omppropid": "M088",
+    "propertyname": "Tompkins Square Park",
+    "subpropertyname": "Tompkins Square Park",
+    "location": "E 7 St between Aves A and B",
+    "model": "Large Black Box",
+    "status": "Removed",
+    "remove_date": "2025-03-03T17:59:31.000",
+    "removal_reason": "Replaced with stainless steel model",
+    "status_change_date": "2025-03-03T17:59:47.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.98244506365027,
+        40.72588466679194
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "70",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "50",
+    ":@computed_region_sbqj_enih": "5",
+    ":@computed_region_efsh_h5xi": "11729"
+  },
+  {
+    "kioskid": "66",
+    "system": "M058-NK-0066",
+    "borough": "Manhattan",
+    "parkdistrict": "M-11",
+    "gispropnum": "M058",
+    "omppropid": "M058-ZN01",
+    "propertyname": "Marcus Garvey Park",
+    "subpropertyname": "Marcus Garvey Park Zone 1",
+    "location": "North side of amphitheater on railing next to structure door",
+    "model": "Stainless Steel",
+    "submodel": "Wall mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2024-01-01T20:16:10.000",
+    "status_change_date": "2024-07-11T19:08:40.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.94467004585371,
+        40.80504250891808
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "7",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "36",
+    ":@computed_region_sbqj_enih": "16",
+    ":@computed_region_efsh_h5xi": "13093"
+  },
+  {
+    "kioskid": "21",
+    "system": "X010A-NK-0021",
+    "borough": "Bronx",
+    "parkdistrict": "X-06",
+    "gispropnum": "X010A",
+    "omppropid": "X010A-02",
+    "propertyname": "Walter Gladwin Park",
+    "subpropertyname": "Walter Gladwin Park-175th Street Playground",
+    "location": "E Tremont Ave and Arthur Ave",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "1.5 gallon",
+    "status": "Removed",
+    "installationdate": "2018-06-04T04:00:00.000",
+    "status_change_date": "2024-07-10T21:03:36.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.89467083931423,
+        40.844554884187346
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "35",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "31"
+  },
+  {
+    "kioskid": "26",
+    "system": "X042-NK-0026",
+    "borough": "Bronx",
+    "parkdistrict": "X-06",
+    "gispropnum": "X042",
+    "omppropid": "X042",
+    "propertyname": "Rosehill Park",
+    "subpropertyname": "Rosehill Park",
+    "location": "Webster Ave and Fordham Rd",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Active",
+    "installationdate": "2018-09-29T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.89076907820362,
+        40.86170221020886
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "24",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "31",
+    ":@computed_region_efsh_h5xi": "10936"
+  },
+  {
+    "kioskid": "16",
+    "system": "X200-NK-0016",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X200",
+    "omppropid": "X200",
+    "propertyname": "Clark Playground",
+    "subpropertyname": "Clark Playground",
+    "location": "E 144 St and 3rd Ave",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Removed",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "remove_date": "2024-07-01T19:25:43.000",
+    "removal_reason": "Restrooms used by playground, school",
+    "status_change_date": "2024-07-11T18:55:05.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.9212315729037,
+        40.81395372116583
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10933"
+  },
+  {
+    "kioskid": "53",
+    "system": "M037-NK-0053",
+    "borough": "Manhattan",
+    "parkdistrict": "M-12A",
+    "gispropnum": "M037",
+    "omppropid": "M037-ZN07",
+    "propertyname": "Highbridge Park",
+    "subpropertyname": "Highbridge Park Zone 7",
+    "location": "E 181st St and Amsterdam Ave, near arches at bottom of steps",
+    "model": "Outdoor post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2019-08-26T04:00:00.000",
+    "remove_date": "2022-03-01T18:57:32.000",
+    "removal_reason": "Broken",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.9292448696017,
+        40.84717671535206
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "47",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "39",
+    ":@computed_region_sbqj_enih": "22",
+    ":@computed_region_efsh_h5xi": "13091"
+  },
+  {
+    "kioskid": "75",
+    "system": "M037-NK-0075",
+    "borough": "Manhattan",
+    "parkdistrict": "M-12A",
+    "gispropnum": "M037",
+    "omppropid": "M037-ZN07",
+    "propertyname": "Highbridge Park",
+    "subpropertyname": "Highbridge Park Zone 7",
+    "location": "E 181 St and Amsterdam Ave",
+    "model": "Stainless Steel",
+    "submodel": "Post Mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2021-08-27T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.93003430358391,
+        40.84728959452695
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "47",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "39",
+    ":@computed_region_sbqj_enih": "22",
+    ":@computed_region_efsh_h5xi": "13091"
+  },
+  {
+    "kioskid": "37",
+    "system": "X045-NK-0037",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X045",
+    "omppropid": "X045",
+    "propertyname": "St. Mary's Park",
+    "subpropertyname": "St. Mary's Park",
+    "location": "Trinity Ave and E 147 St south of walkway",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-09-01T04:00:00.000",
+    "remove_date": "2022-01-01T20:32:17.000",
+    "removal_reason": "Construction",
+    "status_change_date": "2024-07-11T18:52:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.91140720526654,
+        40.81157195109912
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10933"
+  },
+  {
+    "kioskid": "23",
+    "system": "X010-NK-0023",
+    "borough": "Bronx",
+    "parkdistrict": "X-03",
+    "gispropnum": "X010",
+    "omppropid": "X010-12",
+    "propertyname": "Crotona Park",
+    "subpropertyname": "Crotona Park-Bathgate Playground",
+    "location": "Crotona Bathgate Plgd, Fulton Ave. & E 173 St.",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Active",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.89769492872426,
+        40.84066917439288
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "34",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "43",
+    ":@computed_region_sbqj_enih": "25"
+  },
+  {
+    "kioskid": "59",
+    "system": "M028-NK-0098",
+    "borough": "Manhattan",
+    "parkdistrict": "M-12",
+    "gispropnum": "M028",
+    "omppropid": "M028",
+    "propertyname": "Fort Washington Park",
+    "subpropertyname": "Fort Washington Park",
+    "location": "W 177 St entrance",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2016-05-12T17:46:21.000",
+    "status_change_date": "2016-05-12T17:46:37.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.94223202862905,
+        40.84826693890901
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "47",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "39",
+    ":@computed_region_sbqj_enih": "21",
+    ":@computed_region_efsh_h5xi": "13091"
+  },
+  {
+    "kioskid": "13",
+    "system": "X045-NK-0013",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X045",
+    "omppropid": "X045-01",
+    "propertyname": "St. Mary's Park East",
+    "subpropertyname": "St Mary's Park-St Mary's Playground East",
+    "location": "Jackson Ave and E 144 St",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Removed",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "remove_date": "2022-01-01T20:33:22.000",
+    "removal_reason": "Construction",
+    "status_change_date": "2024-07-11T18:52:37.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.91045557636097,
+        40.80988872169399
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10933"
+  },
+  {
+    "kioskid": "19",
+    "system": "X017-NK-0019",
+    "borough": "Bronx",
+    "parkdistrict": "X-05",
+    "gispropnum": "X017",
+    "omppropid": "X017-02",
+    "propertyname": "Richman (Echo) Park",
+    "subpropertyname": "Richman (Echo) Park-Richman (Echo) Park Upper",
+    "location": "E Tremont Ave and E Burnside Ave",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Removed",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "remove_date": "2021-01-01T20:42:41.000",
+    "removal_reason": "Restroom in playground",
+    "status_change_date": "2024-07-11T19:01:19.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.902031385139,
+        40.849573943261554
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "6",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "29",
+    ":@computed_region_efsh_h5xi": "10935"
+  },
+  {
+    "kioskid": "47",
+    "system": "X017-NK-0047",
+    "borough": "Bronx",
+    "parkdistrict": "X-05",
+    "gispropnum": "X017",
+    "omppropid": "X017",
+    "propertyname": "Richman (Echo) Park",
+    "subpropertyname": "Richman (Echo) Park",
+    "location": "On the rocky outcropping next to Tremont Ave",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-12-17T05:00:00.000",
+    "remove_date": "2025-09-26T18:04:46.000",
+    "removal_reason": "Damaged",
+    "status_change_date": "2025-09-26T18:05:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.90185160611884,
+        40.84853309318825
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "6",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "29",
+    ":@computed_region_efsh_h5xi": "10935"
+  },
+  {
+    "kioskid": "46",
+    "system": "X001A-NK-0046",
+    "borough": "Bronx",
+    "parkdistrict": "X-05",
+    "gispropnum": "X001A",
+    "omppropid": "X001A",
+    "propertyname": "Aqueduct Walk",
+    "subpropertyname": "Aqueduct Walk",
+    "location": "At E 184 St in gulch west of walkway",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2019-05-01T04:00:00.000",
+    "remove_date": "2019-07-01T04:00:00.000",
+    "removal_reason": "Low usage",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.90472963448288,
+        40.862109721822314
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "24",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "29",
+    ":@computed_region_sbqj_enih": "34",
+    ":@computed_region_efsh_h5xi": "11606"
+  },
+  {
+    "kioskid": "29",
+    "system": "X017-NK-0029",
+    "borough": "Bronx",
+    "parkdistrict": "X-05",
+    "gispropnum": "X017",
+    "omppropid": "X017",
+    "propertyname": "Richman (Echo) Park",
+    "subpropertyname": "Richman (Echo) Park",
+    "location": "E Tremont Ave and E Burnside Ave",
+    "model": "Outdoor Wall Mount",
+    "submodel": "Mailbox/wall",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-08-19T04:00:00.000",
+    "remove_date": "2019-06-15T04:00:00.000",
+    "removal_reason": "Construction",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.90137406660322,
+        40.849305544321076
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "6",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "29",
+    ":@computed_region_efsh_h5xi": "10935"
+  },
+  {
+    "kioskid": "81",
+    "system": "X044-NK-0081",
+    "borough": "Bronx",
+    "parkdistrict": "X-07",
+    "gispropnum": "X044",
+    "omppropid": "X044",
+    "propertyname": "St. James Park",
+    "subpropertyname": "St. James Park",
+    "location": "Creston Ave and E 192 St",
+    "model": "Stainless Steel",
+    "submodel": "Wall Mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2024-10-10T21:22:34.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.89696980870822,
+        40.86463288527386
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "24",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "29",
+    ":@computed_region_sbqj_enih": "34",
+    ":@computed_region_efsh_h5xi": "11606"
+  },
+  {
+    "kioskid": "84",
+    "system": "X105-NK-0090",
+    "borough": "Manhattan",
+    "parkdistrict": "X-03",
+    "gispropnum": "X105",
+    "omppropid": "X105",
+    "propertyname": "Sara D. Roosevelt Park",
+    "subpropertyname": "Sara D.  Roosevelt Park",
+    "location": "Chrystie and Delancey near entrance",
+    "model": "Stainless steel",
+    "submodel": "Post mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2025-04-22T16:57:06.000",
+    "status_change_date": "2025-04-22T16:57:26.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.99283264680847,
+        40.71963172984492
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "70",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "32",
+    ":@computed_region_sbqj_enih": "2",
+    ":@computed_region_efsh_h5xi": "11723"
+  },
+  {
+    "kioskid": "28",
+    "system": "X155-NK-0028",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X155",
+    "omppropid": "X155",
+    "propertyname": "Patterson Playground",
+    "subpropertyname": "Patterson Playground",
+    "location": "Morris Ave and E 145 St",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2018-08-19T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92262720156488,
+        40.81558486090136
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10929"
+  },
+  {
+    "kioskid": "87",
+    "system": "X010A-NK-0087",
+    "borough": "Bronx",
+    "parkdistrict": "X-06",
+    "gispropnum": "X010A",
+    "omppropid": "X010A",
+    "propertyname": "Walter Gladwin Park",
+    "subpropertyname": "Walter Gladwin Park",
+    "location": "South of wall on hillside",
+    "model": "Stainless steel",
+    "submodel": "Post mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2024-12-20T05:00:00.000",
+    "status_change_date": "2025-03-25T00:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.89599839839856,
+        40.845819394098825
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "35",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "31"
+  },
+  {
+    "kioskid": "83",
+    "system": "M105-NK-0089",
+    "borough": "Manhattan",
+    "parkdistrict": "M-03",
+    "gispropnum": "M105",
+    "omppropid": "M105",
+    "propertyname": "Sara D. Roosevelt Park",
+    "subpropertyname": "Sara D. Roosevelt Park",
+    "location": "Stanton and Chrystie west side of park house",
+    "model": "Stainless steel",
+    "submodel": "Post mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2025-04-22T16:54:54.000",
+    "status_change_date": "2025-04-22T16:55:14.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.99134670290033,
+        40.722522414833534
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "70",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "32",
+    ":@computed_region_sbqj_enih": "2",
+    ":@computed_region_efsh_h5xi": "11723"
+  },
+  {
+    "kioskid": "8",
+    "system": "X168-NK-0008",
+    "borough": "Bronx",
+    "parkdistrict": "X-04",
+    "gispropnum": "X168",
+    "omppropid": "X168",
+    "propertyname": "Nelson Playground",
+    "subpropertyname": "Nelson Playground",
+    "location": "W 166 St and Nelson Ave",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Removed",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "remove_date": "2023-01-01T19:34:37.000",
+    "removal_reason": "Non use",
+    "status_change_date": "2023-01-01T19:34:52.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92658756848269,
+        40.83500171710657
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "50",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "27",
+    ":@computed_region_efsh_h5xi": "10930"
+  },
+  {
+    "kioskid": "57",
+    "system": "M037-NK-0057",
+    "borough": "Manhattan",
+    "parkdistrict": "M-12A",
+    "gispropnum": "M037",
+    "omppropid": "M037-ZN07",
+    "propertyname": "Highbridge Park",
+    "subpropertyname": "Highbridge Park Zone 7",
+    "location": "E 181st St and Amsterdam Ave, west of first underpass",
+    "model": "Outdoor post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2019-08-26T04:00:00.000",
+    "remove_date": "2022-03-01T18:58:57.000",
+    "removal_reason": "Removed",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.93038490890997,
+        40.847104198052584
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "47",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "39",
+    ":@computed_region_sbqj_enih": "22",
+    ":@computed_region_efsh_h5xi": "13091"
+  },
+  {
+    "kioskid": "49",
+    "system": "X045-NK-0049",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X045",
+    "omppropid": "X045",
+    "propertyname": "St. Mary's Park",
+    "subpropertyname": "St. Mary's Park",
+    "location": "Parking lot of M&O building at E 149th St and St Ann's Ave",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-12-11T05:00:00.000",
+    "remove_date": "2021-01-01T20:31:03.000",
+    "removal_reason": "Vandalism",
+    "status_change_date": "2019-04-12T00:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.91271947699323,
+        40.81399712980507
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10933"
+  },
+  {
+    "kioskid": "35",
+    "system": "X047-NK-0035",
+    "borough": "Bronx",
+    "parkdistrict": "X-04",
+    "gispropnum": "X047",
+    "omppropid": "X047-ZN01",
+    "propertyname": "Franz Sigel Park",
+    "subpropertyname": "Franz Sigel Park Zone 1",
+    "location": "Walton Ave and E 153 St",
+    "model": "Outdoor Wall Mount",
+    "submodel": "Mailbox/wall",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-08-19T04:00:00.000",
+    "remove_date": "2023-01-01T20:34:08.000",
+    "removal_reason": "Construction",
+    "status_change_date": "2024-07-12T00:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92652857027669,
+        40.822846719250144
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "50",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "27",
+    ":@computed_region_efsh_h5xi": "10929"
+  },
+  {
+    "kioskid": "80",
+    "system": "M058-NK-0080",
+    "borough": "Manhattan",
+    "parkdistrict": "M-11",
+    "gispropnum": "M058",
+    "omppropid": "M058-ZN01",
+    "propertyname": "Marcus Garvey Park",
+    "subpropertyname": "Marcus Garvey Park Zone 1",
+    "location": "South side of amphitheater",
+    "model": "Stainless Steel",
+    "submodel": "Outdoor Wall Mount",
+    "containersize": "2 gallon",
+    "installationdate": "2024-08-01T15:06:25.000",
+    "status_change_date": "2024-09-19T15:06:52.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.94475651596565,
+        40.80475783342907
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "7",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "36",
+    ":@computed_region_sbqj_enih": "16",
+    ":@computed_region_efsh_h5xi": "13093"
+  },
+  {
+    "kioskid": "2",
+    "system": "X010-NK-0002",
+    "borough": "Bronx",
+    "parkdistrict": "X-03",
+    "gispropnum": "X010",
+    "omppropid": "X010-ZN08",
+    "propertyname": "Crotona Park",
+    "subpropertyname": "Crotona Park-Crotona Zone 8",
+    "location": "Crotona Zone 8, SW corner of park",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2019-05-01T04:00:00.000",
+    "remove_date": "2023-01-01T19:32:18.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.89977157796434,
+        40.83555971560733
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "34",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "43",
+    ":@computed_region_sbqj_enih": "25"
+  },
+  {
+    "kioskid": "78",
+    "system": "M037-NK-0078",
+    "borough": "Manhattan",
+    "parkdistrict": "M-12A",
+    "gispropnum": "M037",
+    "omppropid": "M037-ZN07",
+    "propertyname": "Highbridge Park",
+    "subpropertyname": "Highbridge Park Zone 7",
+    "location": "E 181 St and Amsterdam Ave",
+    "model": "Stainless steel",
+    "submodel": "Post mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2021-08-27T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92943797262525,
+        40.84696947814358
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "47",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "39",
+    ":@computed_region_sbqj_enih": "22",
+    ":@computed_region_efsh_h5xi": "13091"
+  },
+  {
+    "kioskid": "83",
+    "system": "M105-NK-0083",
+    "borough": "Manhattan",
+    "parkdistrict": "M-03",
+    "gispropnum": "M105",
+    "omppropid": "M105",
+    "propertyname": "Sara D. Roosevelt Park",
+    "subpropertyname": "Sara D. Roosevelt Park",
+    "location": "Stanton St bet Chrystie and Forsyth Sts",
+    "model": "Large Black Box",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "remove_date": "2025-03-03T17:49:10.000",
+    "status_change_date": "2025-03-03T17:49:22.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.99134390701697,
+        40.72252380681094
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "70",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "32",
+    ":@computed_region_sbqj_enih": "2",
+    ":@computed_region_efsh_h5xi": "11723"
+  },
+  {
+    "kioskid": "34",
+    "system": "X106-NK-0097",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X106",
+    "omppropid": "X106",
+    "propertyname": "Evelina Antonetty Playground",
+    "location": "Interior walkway",
+    "model": "Outdoor wall mount",
+    "submodel": "Mailbox/wall",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-08-19T14:43:11.000",
+    "remove_date": "2018-10-30T14:43:20.000",
+    "removal_reason": "Construction",
+    "status_change_date": "2018-10-30T14:43:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92840326864155,
+        40.81725091443416
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "43",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10929"
+  },
+  {
+    "kioskid": "30",
+    "system": "X045-NK-0030",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X045",
+    "omppropid": "X045-ZN02",
+    "propertyname": "St. Mary's Park",
+    "subpropertyname": "St Mary's Park Zone 2",
+    "location": "E 148 St and St. Ann's Ave",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-08-19T04:00:00.000",
+    "remove_date": "2022-01-01T20:30:43.000",
+    "removal_reason": "Construction",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.91280247520771,
+        40.81367032187943
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10933"
+  },
+  {
+    "kioskid": "14",
+    "system": "X045-NK-0014",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X045",
+    "omppropid": "X045-01",
+    "propertyname": "St. Mary's Park East",
+    "subpropertyname": "St Mary's Park-St Mary's Playground East",
+    "location": "Jackson Ave and E 144 St",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Removed",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "remove_date": "2022-01-01T20:33:37.000",
+    "removal_reason": "Construction",
+    "status_change_date": "2024-07-11T18:52:44.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.91051776583642,
+        40.809894010879006
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10933"
+  },
+  {
+    "kioskid": "86",
+    "system": "X017-NK-0086",
+    "borough": "Bronx",
+    "parkdistrict": "X-05",
+    "gispropnum": "X017",
+    "omppropid": "X017",
+    "propertyname": "Richman (Echo) Park",
+    "subpropertyname": "Richman (Echo) Park",
+    "location": "Near Tremont Ave. entrance",
+    "model": "Stainless",
+    "submodel": "Wall mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2024-11-15T20:46:10.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.90200469332571,
+        40.84886000484137
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "6",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "29",
+    ":@computed_region_efsh_h5xi": "10935"
+  },
+  {
+    "kioskid": "9",
+    "system": "X047-NK-0009",
+    "borough": "Bronx",
+    "parkdistrict": "X-04",
+    "gispropnum": "X047",
+    "omppropid": "X047-ZN01",
+    "propertyname": "Franz Sigel Park",
+    "subpropertyname": "Franz Sigel Park Zone 1",
+    "location": "Grand Concourse and E 158 St",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Active",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "removal_reason": "Construction",
+    "status_change_date": "2024-07-11T18:55:57.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92602667053147,
+        40.82139181956032
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "50",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "27",
+    ":@computed_region_efsh_h5xi": "10929"
+  },
+  {
+    "kioskid": "24",
+    "system": "X010-NK-0024",
+    "borough": "Bronx",
+    "parkdistrict": "X-03",
+    "gispropnum": "X010",
+    "omppropid": "X010",
+    "propertyname": "Crotona Park",
+    "subpropertyname": "Crotona Park",
+    "location": "Crotona Bathgate Plgd, Fulton Ave. & E 173 St.",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Active",
+    "installationdate": "2018-08-19T04:00:00.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.89752035900044,
+        40.8406128538278
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "34",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "43",
+    ":@computed_region_sbqj_enih": "25"
+  },
+  {
+    "kioskid": "88",
+    "system": "M105-NK-0088",
+    "borough": "Manhattan",
+    "parkdistrict": "M-03",
+    "gispropnum": "M105",
+    "omppropid": "M105",
+    "propertyname": "Sara D. Roosevelt Park",
+    "subpropertyname": "Sara D. Roosevelt Park",
+    "location": "Forsythe and Broome on east wall of park house",
+    "model": "Stainless steel",
+    "submodel": "Wall mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2025-04-22T16:42:19.000",
+    "status_change_date": "2025-04-22T16:43:45.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.99289970135712,
+        40.718712863681574
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "70",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "32",
+    ":@computed_region_sbqj_enih": "2",
+    ":@computed_region_efsh_h5xi": "11723"
+  },
+  {
+    "kioskid": "42",
+    "system": "X010A-NK-0042",
+    "borough": "Bronx",
+    "parkdistrict": "X-06",
+    "gispropnum": "X010A",
+    "omppropid": "X010A",
+    "propertyname": "Walter Gladwin Park",
+    "subpropertyname": "Walter Gladwin Park",
+    "location": "Pathway adjacent to ball field on west side of field",
+    "model": "Outdoor Post Mount",
+    "submodel": "Mailbox/post",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-09-01T04:00:00.000",
+    "removal_reason": "Vandalism",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.8964085078787,
+        40.84511720748027
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "35",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "31"
+  },
+  {
+    "kioskid": "11",
+    "system": "X217-NK-0011",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X217",
+    "omppropid": "X217",
+    "propertyname": "Willis Playground",
+    "subpropertyname": "Willis Playground",
+    "location": "E 139 St, E 140 St, Willis and Alexander Aves",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Removed",
+    "installationdate": "2021-03-01T05:00:00.000",
+    "remove_date": "2024-07-01T19:29:13.000",
+    "removal_reason": "Restrooms near playground",
+    "status_change_date": "2024-07-11T18:53:12.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.9227249546996,
+        40.81137295626106
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10932"
+  },
+  {
+    "kioskid": "15",
+    "system": "X200-NK-0015",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X200",
+    "omppropid": "X200",
+    "propertyname": "Clark Playground",
+    "subpropertyname": "Clark Playground",
+    "location": "E 144 St and 3rd Ave",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Removed",
+    "installationdate": "2018-06-02T04:00:00.000",
+    "remove_date": "2024-07-01T19:27:02.000",
+    "removal_reason": "Restrooms used by playground, school",
+    "status_change_date": "2024-07-11T18:55:23.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92115340275647,
+        40.81394655110299
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10933"
+  },
+  {
+    "kioskid": "45",
+    "system": "X010A-NK-0092",
+    "borough": "Bronx",
+    "parkdistrict": "X-06",
+    "gispropnum": "X010A",
+    "omppropid": "X010A",
+    "propertyname": "Walter Gladwin Park",
+    "subpropertyname": "Walter Gladwin Park",
+    "location": "SW corner of half wall near top of 3rd Ave steps",
+    "model": "Outdoor post mount",
+    "submodel": "Mailbox",
+    "containersize": "2 gallon",
+    "status": "Removed",
+    "installationdate": "2018-09-01T18:45:31.000",
+    "remove_date": "2019-03-31T18:45:39.000",
+    "removal_reason": "Broken",
+    "status_change_date": "2019-03-31T18:45:58.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.8960522725063,
+        40.8457281227665
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "35",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "22",
+    ":@computed_region_sbqj_enih": "31"
+  },
+  {
+    "kioskid": "12",
+    "system": "X217-NK-0012",
+    "borough": "Bronx",
+    "parkdistrict": "X-01",
+    "gispropnum": "X217",
+    "omppropid": "X217",
+    "propertyname": "Willis Playground",
+    "subpropertyname": "Willis Playground",
+    "location": "E 139 St, E 140 St, Willis and Alexander Aves",
+    "model": "Indoor Wall Mount",
+    "submodel": "Bathroom",
+    "containersize": "1.5 gallon",
+    "status": "Removed",
+    "installationdate": "2021-03-01T05:00:00.000",
+    "remove_date": "2024-07-01T19:28:39.000",
+    "removal_reason": "Restrooms near playground",
+    "status_change_date": "2024-07-11T18:53:45.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92265388965716,
+        40.81133677252811
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "49",
+    ":@computed_region_yeji_bk3q": "5",
+    ":@computed_region_92fq_4b7q": "35",
+    ":@computed_region_sbqj_enih": "23",
+    ":@computed_region_efsh_h5xi": "10932"
+  },
+  {
+    "kioskid": "76",
+    "system": "M037-NK-0076",
+    "borough": "Manhattan",
+    "parkdistrict": "M-12A",
+    "gispropnum": "M037",
+    "omppropid": "M037-ZN07",
+    "propertyname": "Highbridge Park",
+    "subpropertyname": "Highbridge Park Zone 7",
+    "location": "Path from 181 St to skate park",
+    "model": "Stainless Steel",
+    "submodel": "Post Mount",
+    "containersize": "2 gallon",
+    "status": "Active",
+    "installationdate": "2024-01-02T16:48:13.000",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -73.92992454421966,
+        40.84691087174109
+      ]
+    },
+    ":@computed_region_f5dn_yrer": "47",
+    ":@computed_region_yeji_bk3q": "4",
+    ":@computed_region_92fq_4b7q": "39",
+    ":@computed_region_sbqj_enih": "22",
+    ":@computed_region_efsh_h5xi": "13091"
+  }
+]

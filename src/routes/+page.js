@@ -1,3 +1,5 @@
+import permits from '$lib/Parks_Syringe_Disposal_Kiosks_.csv';
+
 // Page settings
 // These values are passed to the layout to control what appears on the page.
 export function load() {

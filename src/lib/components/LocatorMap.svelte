@@ -33,6 +33,7 @@ USAGE EXAMPLE:
     zoom = 13,               // Initial zoom level (0–22)
     theme = 'liberty',       // Basemap theme: 'liberty' | 'bright' | 'positron'
     dot = false,             // Whether to show a dot marker at the map center
+    points = [],             // Optional list of points: [{ longitude, latitude, ...props }]
     width = null,            // Optional explicit width in pixels (e.g. 300). Defaults to 100% of parent.
     caption = '',            // Optional caption below the map
     credit = "OpenFreeMap / OpenStreetMap contributors", // Optional credit line
@@ -44,7 +45,7 @@ USAGE EXAMPLE:
   let map = $state(null);
 
   // Tracks the style URL currently applied to the map, to avoid redundant setStyle calls
-  let appliedStyleUrl = styleUrl;
+  let appliedStyleUrl = $state(null);
 
   // Build a descriptive label for screen readers from the caption or coordinates
   const ariaLabel = $derived(
@@ -84,6 +85,64 @@ USAGE EXAMPLE:
     if (map.getSource('locator-dot')) map.removeSource('locator-dot');
   }
 
+  function pointsToFeatureCollection(items) {
+    return {
+      type: 'FeatureCollection',
+      features: items.map((item) => ({
+        type: 'Feature',
+        geometry: {
+          type: 'Point',
+          coordinates: [item.longitude, item.latitude],
+        },
+        properties: {
+          borough: item.borough ?? '',
+          model: item.model ?? '',
+          kioskid: item.kioskid ?? '',
+        },
+      })),
+    };
+  }
+
+  function addOrUpdatePointsLayer() {
+    if (!map) return;
+
+    const validPoints = points.filter((item) =>
+      Number.isFinite(item?.longitude) && Number.isFinite(item?.latitude)
+    );
+
+    const sourceData = pointsToFeatureCollection(validPoints);
+    const source = map.getSource('locator-points');
+
+    if (source) {
+      source.setData(sourceData);
+      return;
+    }
+
+    map.addSource('locator-points', {
+      type: 'geojson',
+      data: sourceData,
+    });
+
+    map.addLayer({
+      id: 'locator-points',
+      type: 'circle',
+      source: 'locator-points',
+      paint: {
+        'circle-radius': 4,
+        'circle-color': '#0f766e',
+        'circle-opacity': 0.9,
+        'circle-stroke-width': 1,
+        'circle-stroke-color': '#ffffff',
+      },
+    });
+  }
+
+  function removePointsLayer() {
+    if (!map) return;
+    if (map.getLayer('locator-points')) map.removeLayer('locator-points');
+    if (map.getSource('locator-points')) map.removeSource('locator-points');
+  }
+
   onMount(() => {
     let mounted = true;
 
@@ -98,6 +157,8 @@ USAGE EXAMPLE:
           interactive: false,           // Static locator map — no pan or zoom by the user
           attributionControl: credit ? false : { compact: true }, // Hide when credit line is shown below the map
         });
+
+        appliedStyleUrl = styleUrl;
       })
       .catch((err) => {
         console.error('LocatorMap: failed to load maplibre-gl', err);
@@ -116,9 +177,12 @@ USAGE EXAMPLE:
     if (!map || url === appliedStyleUrl) return;
     appliedStyleUrl = url;
     map.setStyle(url);
-    // Re-add the dot once the new style finishes loading
+    // Re-add layers once the new style finishes loading
     if (dot) {
       map.once('style.load', addDotLayer);
+    }
+    if (points.length > 0) {
+      map.once('style.load', addOrUpdatePointsLayer);
     }
   });
 
@@ -134,6 +198,20 @@ USAGE EXAMPLE:
       // Style not yet loaded — defer until ready
       map.once('style.load', addDotLayer);
       return () => map?.off('style.load', addDotLayer);
+    }
+  });
+
+  // Reactively add or update dataset points
+  $effect(() => {
+    const total = points.length;
+    if (!map) return;
+
+    if (map.isStyleLoaded()) {
+      if (total > 0) addOrUpdatePointsLayer();
+      else removePointsLayer();
+    } else if (total > 0) {
+      map.once('style.load', addOrUpdatePointsLayer);
+      return () => map?.off('style.load', addOrUpdatePointsLayer);
     }
   });
 </script>

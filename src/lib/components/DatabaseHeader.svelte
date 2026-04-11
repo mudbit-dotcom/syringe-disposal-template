@@ -14,7 +14,7 @@ layout is single-column and backward-compatible.
     description = '',
     byline = '',
     date = '',
-    bgColor = 'var(--color-light-gray)',
+    bgColor = 'var(--color-light-yellow, #fffbe6)',
     children,
     graphic,
   } = $props();

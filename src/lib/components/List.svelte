@@ -20,7 +20,7 @@ RankingList.svelte — A container for RankingCard items with an optional title.
 
 <style lang="scss">
   .ranking-list {
-    border: 1px solid var(--color-border, #ddd);
+    border: 1px solid var(--color-dodgers-blue, #003087);
     border-radius: 4px;
     overflow: hidden;
     background: var(--color-white, #fff);
@@ -32,7 +32,7 @@ RankingList.svelte — A container for RankingCard items with an optional title.
     font-size: 0.875rem;
     font-weight: 700;
     text-transform: uppercase;
-    letter-spacing: 0.05em;
+    letter-spacing: 0.10em;
     background: var(--color-light-gray, #f5f5f5);
     border-bottom: 1px solid var(--color-border, #ddd);
   }
